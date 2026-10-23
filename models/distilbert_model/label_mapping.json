@@ -1,0 +1,22 @@
+{
+    "label2id": {
+        "Roads": 0,
+        "Water Supply": 1,
+        "Drainage": 2,
+        "Waste Management": 3,
+        "Healthcare": 4,
+        "Education": 5,
+        "Street Lighting": 6,
+        "Other": 7
+    },
+    "id2label": {
+        "0": "Roads",
+        "1": "Water Supply",
+        "2": "Drainage",
+        "3": "Waste Management",
+        "4": "Healthcare",
+        "5": "Education",
+        "6": "Street Lighting",
+        "7": "Other"
+    }
+}

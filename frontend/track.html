@@ -1,0 +1,268 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Track Complaint | Smart Governance</title>
+    <link rel="stylesheet" href="/frontend/style.css">
+    <style>
+        .track-container {
+            max-width: 850px;
+            width: 90%;
+            margin: 40px auto;
+        }
+
+        .track-card, .result-card {
+            background: white;
+            padding: 28px;
+            margin-bottom: 22px;
+            border-radius: 12px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.06);
+        }
+
+        .track-card h1, .result-card h2 {
+            color: #173b63;
+            margin-top: 0;
+        }
+
+        .track-form {
+            display: flex;
+            gap: 12px;
+            margin-top: 20px;
+        }
+
+        .track-form input {
+            flex: 1;
+            min-width: 0;
+            padding: 13px;
+            border: 1px solid #cbd5e1;
+            border-radius: 7px;
+            font-size: 16px;
+        }
+
+        .track-form button {
+            padding: 13px 20px;
+            border: none;
+            border-radius: 7px;
+            background: #173b63;
+            color: white;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        .track-form button:disabled {
+            opacity: 0.65;
+            cursor: wait;
+        }
+
+        .tracking-row {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+            padding: 14px 0;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        .tracking-row span:first-child {
+            font-weight: 600;
+        }
+
+        .tracking-row span:last-child {
+            text-align: right;
+            overflow-wrap: anywhere;
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 6px 11px;
+            border-radius: 20px;
+            background: #dbeafe;
+            color: #1e40af;
+            font-weight: 700;
+        }
+
+        .tracking-message {
+            margin-top: 16px;
+            line-height: 1.5;
+        }
+
+        .tracking-error {
+            color: #b91c1c;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin: 8px 0 20px;
+        }
+
+        @media (max-width: 550px) {
+            .track-form {
+                flex-direction: column;
+            }
+
+            .tracking-row {
+                flex-direction: column;
+                gap: 6px;
+            }
+
+            .tracking-row span:last-child {
+                text-align: left;
+            }
+
+            .track-card, .result-card {
+                padding: 20px;
+            }
+        }
+        
+/* Fix complaint ID input and tracking form layout */
+.track-form {
+    display: flex;
+    align-items: stretch;
+    gap: 12px;
+    width: 100%;
+}
+
+.track-form input#complaint-id {
+    display: block;
+    flex: 1 1 0;
+    width: 0;
+    min-width: 0;
+    height: 52px;
+    padding: 12px 14px;
+    box-sizing: border-box;
+    border: 1px solid #cbd5e1;
+    border-radius: 7px;
+    font-size: 16px;
+}
+
+.track-form button {
+    flex: 0 0 auto;
+    width: auto;
+    min-width: 180px;
+    height: 52px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+@media (max-width: 550px) {
+    .track-form {
+        flex-direction: column;
+    }
+
+    .track-form input#complaint-id,
+    .track-form button {
+        width: 100%;
+        min-width: 0;
+        flex: auto;
+    }
+}
+
+    </style>
+</head>
+<body>
+    <main class="track-container">
+        <a class="back-link" href="/citizen">← Return to Citizen Portal</a>
+
+        <section class="track-card">
+            <h1>Track Your Complaint</h1>
+            <p>
+                Enter the complaint ID you received after submitting
+                your complaint.
+            </p>
+
+            <form id="track-form" class="track-form">
+                <input
+                    id="complaint-id"
+                    type="number"
+                    min="1"
+                    step="1"
+                    placeholder="Enter complaint ID"
+                    aria-label="Complaint ID"
+                    required
+                >
+                <button id="track-button" type="submit">
+                    Track Complaint
+                </button>
+            </form>
+
+            <p
+                id="tracking-message"
+                class="tracking-message"
+                role="status"
+                aria-live="polite"
+            ></p>
+        </section>
+
+        <section id="tracking-result" class="result-card hidden">
+            <h2>Complaint Status</h2>
+
+            <div class="tracking-row">
+                <span>Complaint ID</span>
+                <span id="result-id"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Submitted</span>
+                <span id="result-date"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Area</span>
+                <span id="result-area"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Current Status</span>
+                <span id="result-status" class="status-badge"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Problem Category</span>
+                <span id="result-category"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Priority</span>
+                <span id="result-priority"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Severity Score</span>
+                <span id="result-severity"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Recommendation</span>
+                <span id="result-recommendation"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Suggested Action</span>
+                <span id="result-action"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Officer Decision</span>
+                <span id="result-decision"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Officer Remarks</span>
+                <span id="result-remarks"></span>
+            </div>
+
+            <div class="tracking-row">
+                <span>Decision Date</span>
+                <span id="result-decision-date"></span>
+            </div>
+        </section>
+    </main>
+
+    <script src="/frontend/track.js"></script>
+</body>
+</html>

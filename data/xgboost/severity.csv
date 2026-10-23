@@ -1,0 +1,601 @@
+record_id,area_id,period_start,problem_category,complaint_count,affected_population,population,infrastructure_condition,historical_incidents,problem_duration_days,severity_score,priority,data_status
+XGB_0001,HYD_AREA_009,2025-09-26,Roads,79,7162,23784,Poor,3,3,55.85,Medium,synthetic_demo
+XGB_0002,HYD_AREA_077,2025-12-05,Roads,95,4066,22231,Fair,7,6,58.89,Medium,synthetic_demo
+XGB_0003,HYD_AREA_041,2025-04-12,Roads,66,3142,25126,Fair,14,2,58.07,Medium,synthetic_demo
+XGB_0004,HYD_AREA_064,2025-10-12,Roads,91,4600,7043,Poor,15,21,100.0,High,synthetic_demo
+XGB_0005,HYD_AREA_037,2025-05-30,Roads,60,2191,15335,Poor,14,23,79.87,High,synthetic_demo
+XGB_0006,HYD_AREA_033,2025-06-23,Roads,45,3400,27403,Good,3,21,38.85,Low,synthetic_demo
+XGB_0007,HYD_AREA_057,2025-06-08,Roads,113,9848,20920,Poor,1,10,75.17,High,synthetic_demo
+XGB_0008,HYD_AREA_081,2025-03-14,Roads,47,2362,25647,Good,10,25,54.13,Medium,synthetic_demo
+XGB_0009,HYD_AREA_080,2025-01-14,Roads,94,7654,24141,Poor,8,14,78.31,High,synthetic_demo
+XGB_0010,HYD_AREA_014,2025-10-07,Roads,14,1660,9250,Fair,7,3,33.99,Low,synthetic_demo
+XGB_0011,HYD_AREA_057,2025-04-11,Roads,11,1068,17723,Good,5,14,29.66,Low,synthetic_demo
+XGB_0012,HYD_AREA_041,2025-04-18,Roads,103,5083,29799,Fair,0,28,70.43,High,synthetic_demo
+XGB_0013,HYD_AREA_013,2025-05-03,Roads,61,5145,17818,Fair,6,25,64.16,Medium,synthetic_demo
+XGB_0014,HYD_AREA_003,2025-07-02,Roads,11,1528,5419,Good,7,28,49.18,Medium,synthetic_demo
+XGB_0015,HYD_AREA_050,2025-12-17,Roads,60,3546,21649,Fair,10,19,57.85,Medium,synthetic_demo
+XGB_0016,HYD_AREA_009,2025-04-08,Roads,15,1750,11921,Poor,14,14,65.3,Medium,synthetic_demo
+XGB_0017,HYD_AREA_027,2025-02-16,Roads,32,2523,23916,Fair,1,3,26.91,Low,synthetic_demo
+XGB_0018,HYD_AREA_046,2025-11-09,Roads,25,1969,21861,Good,9,14,37.72,Low,synthetic_demo
+XGB_0019,HYD_AREA_050,2025-10-04,Roads,80,5944,22285,Fair,1,20,56.73,Medium,synthetic_demo
+XGB_0020,HYD_AREA_042,2025-02-07,Roads,5,485,24140,Good,5,21,26.24,Low,synthetic_demo
+XGB_0021,HYD_AREA_080,2025-02-25,Roads,36,3290,7191,Fair,9,18,62.14,Medium,synthetic_demo
+XGB_0022,HYD_AREA_096,2025-06-29,Roads,58,4692,13999,Fair,1,21,57.74,Medium,synthetic_demo
+XGB_0023,HYD_AREA_017,2025-04-14,Roads,66,3356,18223,Fair,8,16,58.17,Medium,synthetic_demo
+XGB_0024,HYD_AREA_003,2025-02-09,Roads,100,9316,12501,Fair,2,10,71.7,High,synthetic_demo
+XGB_0025,HYD_AREA_012,2025-12-22,Roads,30,2936,10234,Poor,5,4,47.71,Medium,synthetic_demo
+XGB_0026,HYD_AREA_024,2025-10-23,Roads,5,866,9002,Poor,5,14,41.78,Medium,synthetic_demo
+XGB_0027,HYD_AREA_021,2025-07-14,Roads,77,4992,28705,Fair,15,29,84.32,High,synthetic_demo
+XGB_0028,HYD_AREA_005,2025-11-22,Roads,53,5157,10717,Poor,14,26,91.32,High,synthetic_demo
+XGB_0029,HYD_AREA_012,2025-09-26,Roads,57,4821,16769,Poor,6,12,65.87,Medium,synthetic_demo
+XGB_0030,HYD_AREA_075,2025-10-31,Roads,32,3846,12950,Good,3,3,27.93,Low,synthetic_demo
+XGB_0031,HYD_AREA_075,2025-04-27,Roads,45,4478,7430,Good,4,10,50.21,Medium,synthetic_demo
+XGB_0032,HYD_AREA_098,2025-02-18,Roads,61,3074,16231,Good,0,9,35.89,Low,synthetic_demo
+XGB_0033,HYD_AREA_097,2025-01-10,Roads,36,3155,5850,Fair,6,6,50.46,Medium,synthetic_demo
+XGB_0034,HYD_AREA_072,2025-05-26,Roads,89,3475,4820,Poor,1,3,71.37,High,synthetic_demo
+XGB_0035,HYD_AREA_014,2025-08-06,Roads,62,6360,15936,Fair,15,28,84.06,High,synthetic_demo
+XGB_0036,HYD_AREA_056,2025-12-19,Roads,77,3219,6575,Fair,2,1,57.48,Medium,synthetic_demo
+XGB_0037,HYD_AREA_019,2025-04-16,Roads,89,5941,28159,Poor,13,1,75.87,High,synthetic_demo
+XGB_0038,HYD_AREA_083,2025-11-13,Roads,96,4297,9389,Fair,8,28,92.84,High,synthetic_demo
+XGB_0039,HYD_AREA_029,2025-07-13,Roads,15,1196,13846,Poor,15,27,66.99,Medium,synthetic_demo
+XGB_0040,HYD_AREA_025,2025-01-25,Roads,29,3080,9889,Good,13,27,60.16,Medium,synthetic_demo
+XGB_0041,HYD_AREA_036,2025-02-26,Roads,24,1946,6519,Good,14,28,62.98,Medium,synthetic_demo
+XGB_0042,HYD_AREA_029,2025-03-05,Roads,19,1168,18379,Good,0,6,14.36,Low,synthetic_demo
+XGB_0043,HYD_AREA_043,2025-10-17,Roads,62,3939,18757,Fair,15,16,69.46,Medium,synthetic_demo
+XGB_0044,HYD_AREA_086,2025-07-28,Roads,6,1116,17254,Good,3,20,28.98,Low,synthetic_demo
+XGB_0045,HYD_AREA_029,2025-05-28,Roads,1,434,3854,Good,1,26,30.65,Low,synthetic_demo
+XGB_0046,HYD_AREA_093,2025-10-20,Roads,12,1809,21458,Poor,14,10,56.28,Medium,synthetic_demo
+XGB_0047,HYD_AREA_063,2025-11-01,Roads,74,3325,20168,Fair,5,16,61.88,Medium,synthetic_demo
+XGB_0048,HYD_AREA_047,2025-06-24,Roads,47,3529,24064,Good,4,14,39.34,Low,synthetic_demo
+XGB_0049,HYD_AREA_061,2025-03-27,Roads,41,2443,8895,Fair,6,12,46.56,Medium,synthetic_demo
+XGB_0050,HYD_AREA_030,2025-07-15,Roads,114,11017,24301,Fair,7,14,83.75,High,synthetic_demo
+XGB_0051,HYD_AREA_049,2025-01-13,Roads,25,2362,20446,Fair,1,9,34.03,Low,synthetic_demo
+XGB_0052,HYD_AREA_021,2025-02-04,Roads,84,8080,18930,Fair,2,20,72.59,High,synthetic_demo
+XGB_0053,HYD_AREA_059,2025-06-12,Roads,63,3116,4823,Poor,2,25,86.36,High,synthetic_demo
+XGB_0054,HYD_AREA_079,2025-02-04,Roads,96,8847,29909,Fair,4,2,55.89,Medium,synthetic_demo
+XGB_0055,HYD_AREA_013,2025-07-08,Roads,1,630,18036,Fair,11,23,48.37,Medium,synthetic_demo
+XGB_0056,HYD_AREA_050,2025-02-02,Roads,72,7338,8982,Good,1,22,68.77,Medium,synthetic_demo
+XGB_0057,HYD_AREA_073,2025-08-20,Roads,111,8765,14012,Fair,11,27,99.55,High,synthetic_demo
+XGB_0058,HYD_AREA_028,2025-12-08,Roads,44,2381,24369,Good,2,3,21.28,Low,synthetic_demo
+XGB_0059,HYD_AREA_074,2025-02-21,Roads,16,1749,13041,Poor,5,24,59.24,Medium,synthetic_demo
+XGB_0060,HYD_AREA_038,2025-11-07,Roads,119,9800,20428,Good,15,9,79.3,High,synthetic_demo
+XGB_0061,HYD_AREA_013,2025-06-07,Roads,58,4823,5852,Good,1,14,52.76,Medium,synthetic_demo
+XGB_0062,HYD_AREA_030,2025-10-13,Roads,56,3145,29129,Poor,4,23,60.68,Medium,synthetic_demo
+XGB_0063,HYD_AREA_040,2025-08-16,Roads,6,1149,29919,Poor,0,4,28.45,Low,synthetic_demo
+XGB_0064,HYD_AREA_010,2025-10-11,Roads,108,3165,21220,Good,3,26,66.18,Medium,synthetic_demo
+XGB_0065,HYD_AREA_002,2025-12-24,Roads,35,1619,27543,Good,2,2,13.98,Low,synthetic_demo
+XGB_0066,HYD_AREA_081,2025-12-05,Roads,29,2694,28988,Poor,0,30,57.5,Medium,synthetic_demo
+XGB_0067,HYD_AREA_085,2025-07-17,Roads,99,3591,21699,Good,1,4,40.99,Medium,synthetic_demo
+XGB_0068,HYD_AREA_075,2025-03-12,Roads,76,6877,17577,Poor,2,2,58.34,Medium,synthetic_demo
+XGB_0069,HYD_AREA_010,2025-03-21,Roads,63,5252,22023,Good,1,19,46.82,Medium,synthetic_demo
+XGB_0070,HYD_AREA_089,2025-12-24,Roads,86,3563,15121,Good,1,12,44.19,Medium,synthetic_demo
+XGB_0071,HYD_AREA_055,2025-06-02,Roads,31,2654,24063,Good,3,29,42.36,Medium,synthetic_demo
+XGB_0072,HYD_AREA_058,2025-07-05,Roads,84,6360,17283,Good,15,14,71.81,High,synthetic_demo
+XGB_0073,HYD_AREA_092,2025-10-14,Roads,16,669,15540,Fair,1,10,24.63,Low,synthetic_demo
+XGB_0074,HYD_AREA_062,2025-08-03,Roads,77,4297,13521,Good,6,29,63.34,Medium,synthetic_demo
+XGB_0075,HYD_AREA_093,2025-08-04,Roads,36,2512,3491,Good,1,18,52.51,Medium,synthetic_demo
+XGB_0076,HYD_AREA_071,2025-07-20,Water Supply,78,6129,17544,Poor,5,11,67.69,Medium,synthetic_demo
+XGB_0077,HYD_AREA_053,2025-11-07,Water Supply,64,4258,19715,Poor,8,27,81.94,High,synthetic_demo
+XGB_0078,HYD_AREA_051,2025-06-30,Water Supply,63,5348,22669,Poor,5,12,66.15,Medium,synthetic_demo
+XGB_0079,HYD_AREA_006,2025-09-24,Water Supply,105,3875,4481,Fair,9,11,88.82,High,synthetic_demo
+XGB_0080,HYD_AREA_032,2025-05-16,Water Supply,90,2779,4329,Poor,13,13,98.74,High,synthetic_demo
+XGB_0081,HYD_AREA_024,2025-06-04,Water Supply,81,4213,19023,Poor,1,30,79.03,High,synthetic_demo
+XGB_0082,HYD_AREA_032,2025-01-04,Water Supply,83,6926,23692,Fair,6,11,64.58,Medium,synthetic_demo
+XGB_0083,HYD_AREA_076,2025-03-15,Water Supply,57,2249,16940,Poor,14,30,83.63,High,synthetic_demo
+XGB_0084,HYD_AREA_084,2025-01-30,Water Supply,119,4657,24545,Fair,7,10,70.21,High,synthetic_demo
+XGB_0085,HYD_AREA_005,2025-08-19,Water Supply,58,2530,14429,Good,3,28,54.46,Medium,synthetic_demo
+XGB_0086,HYD_AREA_024,2025-01-31,Water Supply,36,3131,7795,Fair,9,1,43.47,Medium,synthetic_demo
+XGB_0087,HYD_AREA_085,2025-09-22,Water Supply,103,7893,25699,Poor,12,23,96.86,High,synthetic_demo
+XGB_0088,HYD_AREA_037,2025-10-08,Water Supply,65,4096,22951,Fair,13,16,73.66,High,synthetic_demo
+XGB_0089,HYD_AREA_037,2025-01-09,Water Supply,52,4347,16382,Poor,6,11,60.05,Medium,synthetic_demo
+XGB_0090,HYD_AREA_040,2025-03-11,Water Supply,111,8067,29951,Fair,2,10,62.48,Medium,synthetic_demo
+XGB_0091,HYD_AREA_061,2025-03-04,Water Supply,83,4309,28006,Fair,9,1,55.04,Medium,synthetic_demo
+XGB_0092,HYD_AREA_071,2025-10-05,Water Supply,77,8019,16960,Fair,9,30,86.43,High,synthetic_demo
+XGB_0093,HYD_AREA_052,2025-10-23,Water Supply,35,3754,22319,Poor,1,4,48.44,Medium,synthetic_demo
+XGB_0094,HYD_AREA_045,2025-04-16,Water Supply,67,5159,20366,Poor,15,5,79.82,High,synthetic_demo
+XGB_0095,HYD_AREA_098,2025-11-16,Water Supply,77,2938,23125,Good,8,24,59.21,Medium,synthetic_demo
+XGB_0096,HYD_AREA_099,2025-01-31,Water Supply,56,5475,26146,Poor,6,20,67.48,Medium,synthetic_demo
+XGB_0097,HYD_AREA_055,2025-05-15,Water Supply,32,3567,24557,Good,0,12,29.53,Low,synthetic_demo
+XGB_0098,HYD_AREA_011,2025-09-27,Water Supply,82,6801,28118,Poor,12,23,90.56,High,synthetic_demo
+XGB_0099,HYD_AREA_039,2025-04-06,Water Supply,109,3846,3846,Poor,7,1,94.93,High,synthetic_demo
+XGB_0100,HYD_AREA_068,2025-03-28,Water Supply,4,912,17092,Poor,14,8,44.48,Medium,synthetic_demo
+XGB_0101,HYD_AREA_053,2025-07-20,Water Supply,94,5171,12071,Fair,7,12,70.71,High,synthetic_demo
+XGB_0102,HYD_AREA_089,2025-10-22,Water Supply,23,1386,26325,Poor,5,13,54.58,Medium,synthetic_demo
+XGB_0103,HYD_AREA_064,2025-09-26,Water Supply,94,3658,10650,Fair,2,30,72.61,High,synthetic_demo
+XGB_0104,HYD_AREA_060,2025-05-14,Water Supply,48,4158,4158,Good,7,4,58.13,Medium,synthetic_demo
+XGB_0105,HYD_AREA_036,2025-11-20,Water Supply,67,3817,8054,Fair,14,11,73.41,High,synthetic_demo
+XGB_0106,HYD_AREA_096,2025-03-27,Water Supply,91,6701,28965,Poor,4,12,65.77,Medium,synthetic_demo
+XGB_0107,HYD_AREA_090,2025-11-08,Water Supply,37,3377,27500,Fair,9,20,53.5,Medium,synthetic_demo
+XGB_0108,HYD_AREA_025,2025-07-24,Water Supply,39,1746,10741,Fair,13,2,49.76,Medium,synthetic_demo
+XGB_0109,HYD_AREA_059,2025-06-21,Water Supply,77,4930,24055,Poor,9,21,78.8,High,synthetic_demo
+XGB_0110,HYD_AREA_019,2025-07-07,Water Supply,68,2612,7208,Poor,10,24,85.37,High,synthetic_demo
+XGB_0111,HYD_AREA_014,2025-12-26,Water Supply,113,3485,3485,Good,0,8,70.15,High,synthetic_demo
+XGB_0112,HYD_AREA_046,2025-05-21,Water Supply,62,2953,9756,Good,0,20,50.59,Medium,synthetic_demo
+XGB_0113,HYD_AREA_090,2025-04-16,Water Supply,54,2698,21700,Fair,3,13,46.41,Medium,synthetic_demo
+XGB_0114,HYD_AREA_012,2025-05-02,Water Supply,104,2719,13906,Fair,8,1,62.04,Medium,synthetic_demo
+XGB_0115,HYD_AREA_056,2025-11-12,Water Supply,57,3305,23966,Fair,9,8,47.61,Medium,synthetic_demo
+XGB_0116,HYD_AREA_069,2025-06-18,Water Supply,28,1595,11667,Good,14,15,49.88,Medium,synthetic_demo
+XGB_0117,HYD_AREA_020,2025-10-26,Water Supply,73,2578,6637,Poor,1,1,59.63,Medium,synthetic_demo
+XGB_0118,HYD_AREA_004,2025-08-04,Water Supply,14,1432,6722,Fair,3,7,27.53,Low,synthetic_demo
+XGB_0119,HYD_AREA_050,2025-04-17,Water Supply,34,2630,2630,Good,14,24,80.64,High,synthetic_demo
+XGB_0120,HYD_AREA_026,2025-05-12,Water Supply,111,7275,9333,Poor,9,3,89.7,High,synthetic_demo
+XGB_0121,HYD_AREA_015,2025-10-28,Water Supply,66,5225,11256,Good,8,13,61.23,Medium,synthetic_demo
+XGB_0122,HYD_AREA_008,2025-09-22,Water Supply,4,580,26202,Good,0,20,27.83,Low,synthetic_demo
+XGB_0123,HYD_AREA_031,2025-09-02,Water Supply,100,9047,22811,Fair,3,4,60.91,Medium,synthetic_demo
+XGB_0124,HYD_AREA_070,2025-01-07,Water Supply,21,1391,4156,Good,15,28,69.71,Medium,synthetic_demo
+XGB_0125,HYD_AREA_058,2025-03-08,Water Supply,47,4254,18578,Poor,6,17,61.78,Medium,synthetic_demo
+XGB_0126,HYD_AREA_028,2025-11-02,Water Supply,7,598,22345,Poor,4,30,54.99,Medium,synthetic_demo
+XGB_0127,HYD_AREA_006,2025-07-11,Water Supply,19,1868,18882,Fair,9,19,45.84,Medium,synthetic_demo
+XGB_0128,HYD_AREA_040,2025-12-25,Water Supply,82,6978,23171,Poor,9,22,84.24,High,synthetic_demo
+XGB_0129,HYD_AREA_093,2025-10-09,Water Supply,114,9214,16651,Fair,6,13,78.44,High,synthetic_demo
+XGB_0130,HYD_AREA_089,2025-03-07,Water Supply,48,3962,20579,Poor,2,8,55.73,Medium,synthetic_demo
+XGB_0131,HYD_AREA_092,2025-08-24,Water Supply,119,5655,26122,Fair,14,23,90.9,High,synthetic_demo
+XGB_0132,HYD_AREA_038,2025-07-28,Water Supply,63,5498,13857,Poor,11,29,87.76,High,synthetic_demo
+XGB_0133,HYD_AREA_078,2025-06-16,Water Supply,84,7658,27360,Good,0,7,48.03,Medium,synthetic_demo
+XGB_0134,HYD_AREA_003,2025-05-25,Water Supply,118,6870,8284,Poor,11,19,100.0,High,synthetic_demo
+XGB_0135,HYD_AREA_035,2025-01-25,Water Supply,69,4282,19240,Fair,9,29,73.33,High,synthetic_demo
+XGB_0136,HYD_AREA_020,2025-09-07,Water Supply,46,3188,11796,Good,2,10,30.98,Low,synthetic_demo
+XGB_0137,HYD_AREA_003,2025-06-24,Water Supply,88,3052,28760,Poor,9,27,82.94,High,synthetic_demo
+XGB_0138,HYD_AREA_021,2025-01-17,Water Supply,23,1472,29331,Fair,7,4,30.92,Low,synthetic_demo
+XGB_0139,HYD_AREA_009,2025-04-25,Water Supply,30,2443,28882,Good,3,8,25.87,Low,synthetic_demo
+XGB_0140,HYD_AREA_077,2025-12-14,Water Supply,106,9445,10795,Poor,15,11,100.0,High,synthetic_demo
+XGB_0141,HYD_AREA_042,2025-05-27,Water Supply,113,6289,6289,Good,13,26,100.0,High,synthetic_demo
+XGB_0142,HYD_AREA_055,2025-08-02,Water Supply,20,1308,16827,Poor,2,12,40.75,Medium,synthetic_demo
+XGB_0143,HYD_AREA_074,2025-08-09,Water Supply,102,5811,10641,Poor,0,24,91.91,High,synthetic_demo
+XGB_0144,HYD_AREA_095,2025-11-05,Water Supply,15,2042,13733,Fair,1,6,25.61,Low,synthetic_demo
+XGB_0145,HYD_AREA_066,2025-07-15,Water Supply,8,787,13873,Poor,2,26,54.85,Medium,synthetic_demo
+XGB_0146,HYD_AREA_054,2025-11-21,Water Supply,30,1560,22299,Poor,2,3,36.98,Low,synthetic_demo
+XGB_0147,HYD_AREA_033,2025-05-12,Water Supply,34,2601,16736,Fair,13,14,56.81,Medium,synthetic_demo
+XGB_0148,HYD_AREA_013,2025-07-22,Water Supply,115,7519,7519,Good,15,12,94.35,High,synthetic_demo
+XGB_0149,HYD_AREA_017,2025-01-27,Water Supply,105,3529,9462,Poor,0,10,73.06,High,synthetic_demo
+XGB_0150,HYD_AREA_047,2025-10-26,Water Supply,49,3710,29201,Poor,2,5,36.39,Low,synthetic_demo
+XGB_0151,HYD_AREA_038,2025-01-21,Drainage,101,9187,15391,Fair,8,2,77.1,High,synthetic_demo
+XGB_0152,HYD_AREA_080,2025-12-04,Drainage,75,6453,20583,Good,12,7,55.8,Medium,synthetic_demo
+XGB_0153,HYD_AREA_029,2025-10-19,Drainage,91,8604,20073,Fair,14,2,76.31,High,synthetic_demo
+XGB_0154,HYD_AREA_013,2025-04-27,Drainage,19,1812,14437,Poor,6,20,54.36,Medium,synthetic_demo
+XGB_0155,HYD_AREA_072,2025-07-22,Drainage,37,3138,15180,Fair,9,29,61.77,Medium,synthetic_demo
+XGB_0156,HYD_AREA_018,2025-11-22,Drainage,82,4994,4994,Fair,0,9,73.25,High,synthetic_demo
+XGB_0157,HYD_AREA_076,2025-11-23,Drainage,21,2219,20650,Fair,11,23,56.57,Medium,synthetic_demo
+XGB_0158,HYD_AREA_057,2025-08-25,Drainage,87,5999,6611,Fair,14,6,87.79,High,synthetic_demo
+XGB_0159,HYD_AREA_070,2025-09-25,Drainage,56,2333,13724,Good,5,21,49.46,Medium,synthetic_demo
+XGB_0160,HYD_AREA_067,2025-11-11,Drainage,3,948,10888,Poor,3,29,51.72,Medium,synthetic_demo
+XGB_0161,HYD_AREA_092,2025-11-30,Drainage,21,1058,20866,Good,4,9,27.22,Low,synthetic_demo
+XGB_0162,HYD_AREA_092,2025-08-11,Drainage,25,2119,22893,Poor,11,18,63.69,Medium,synthetic_demo
+XGB_0163,HYD_AREA_031,2025-07-16,Drainage,8,1066,19701,Fair,7,21,45.92,Medium,synthetic_demo
+XGB_0164,HYD_AREA_041,2025-11-08,Drainage,106,7539,21772,Poor,7,26,91.8,High,synthetic_demo
+XGB_0165,HYD_AREA_086,2025-12-15,Drainage,85,6376,17475,Fair,12,8,70.33,High,synthetic_demo
+XGB_0166,HYD_AREA_093,2025-10-06,Drainage,102,9554,11191,Poor,11,7,100.0,High,synthetic_demo
+XGB_0167,HYD_AREA_063,2025-05-13,Drainage,84,6131,15052,Fair,4,8,63.07,Medium,synthetic_demo
+XGB_0168,HYD_AREA_041,2025-01-03,Drainage,27,2507,10376,Good,13,11,44.59,Medium,synthetic_demo
+XGB_0169,HYD_AREA_046,2025-06-14,Drainage,17,1429,24432,Poor,9,4,45.63,Medium,synthetic_demo
+XGB_0170,HYD_AREA_100,2025-12-07,Drainage,24,884,10378,Fair,6,27,57.58,Medium,synthetic_demo
+XGB_0171,HYD_AREA_064,2025-06-15,Drainage,113,4415,4415,Fair,7,27,100.0,High,synthetic_demo
+XGB_0172,HYD_AREA_012,2025-07-02,Drainage,100,3889,22049,Fair,6,8,64.48,Medium,synthetic_demo
+XGB_0173,HYD_AREA_080,2025-02-13,Drainage,1,1087,20449,Fair,1,3,21.16,Low,synthetic_demo
+XGB_0174,HYD_AREA_098,2025-09-03,Drainage,39,2412,11313,Good,6,12,38.02,Low,synthetic_demo
+XGB_0175,HYD_AREA_033,2025-09-18,Drainage,82,7595,24156,Fair,6,10,67.25,Medium,synthetic_demo
+XGB_0176,HYD_AREA_081,2025-02-05,Drainage,59,5430,7103,Poor,2,28,87.57,High,synthetic_demo
+XGB_0177,HYD_AREA_031,2025-02-06,Drainage,34,1042,17181,Good,1,14,29.23,Low,synthetic_demo
+XGB_0178,HYD_AREA_004,2025-11-11,Drainage,79,6868,11797,Good,2,2,47.3,Medium,synthetic_demo
+XGB_0179,HYD_AREA_056,2025-04-30,Drainage,55,2552,17321,Fair,8,23,63.61,Medium,synthetic_demo
+XGB_0180,HYD_AREA_076,2025-03-22,Drainage,61,5443,8040,Fair,7,13,69.96,Medium,synthetic_demo
+XGB_0181,HYD_AREA_065,2025-01-23,Drainage,116,3717,23166,Good,2,6,53.98,Medium,synthetic_demo
+XGB_0182,HYD_AREA_040,2025-05-24,Drainage,119,5105,21727,Fair,10,28,90.77,High,synthetic_demo
+XGB_0183,HYD_AREA_096,2025-04-02,Drainage,115,5296,29329,Good,7,20,68.65,Medium,synthetic_demo
+XGB_0184,HYD_AREA_074,2025-01-10,Drainage,68,2677,2677,Poor,13,14,100.0,High,synthetic_demo
+XGB_0185,HYD_AREA_094,2025-05-08,Drainage,45,2430,19043,Fair,4,23,49.63,Medium,synthetic_demo
+XGB_0186,HYD_AREA_057,2025-07-25,Drainage,47,2197,6838,Fair,8,14,56.8,Medium,synthetic_demo
+XGB_0187,HYD_AREA_085,2025-11-03,Drainage,44,1754,4317,Poor,12,20,83.15,High,synthetic_demo
+XGB_0188,HYD_AREA_090,2025-03-20,Drainage,57,4165,5114,Good,14,11,80.67,High,synthetic_demo
+XGB_0189,HYD_AREA_047,2025-07-10,Drainage,37,2159,7876,Good,6,7,37.13,Low,synthetic_demo
+XGB_0190,HYD_AREA_018,2025-01-21,Drainage,17,1628,4639,Fair,5,8,49.53,Medium,synthetic_demo
+XGB_0191,HYD_AREA_035,2025-10-02,Drainage,112,5021,9782,Poor,0,28,85.2,High,synthetic_demo
+XGB_0192,HYD_AREA_011,2025-10-03,Drainage,14,1364,3898,Poor,1,29,66.89,Medium,synthetic_demo
+XGB_0193,HYD_AREA_070,2025-02-01,Drainage,18,1502,16967,Fair,0,10,27.97,Low,synthetic_demo
+XGB_0194,HYD_AREA_058,2025-06-30,Drainage,97,4383,27684,Fair,15,16,72.86,High,synthetic_demo
+XGB_0195,HYD_AREA_096,2025-12-25,Drainage,97,6792,12970,Good,10,10,72.72,High,synthetic_demo
+XGB_0196,HYD_AREA_011,2025-06-07,Drainage,104,7467,24460,Fair,5,14,70.68,High,synthetic_demo
+XGB_0197,HYD_AREA_038,2025-05-21,Drainage,97,6016,27987,Fair,4,14,68.96,Medium,synthetic_demo
+XGB_0198,HYD_AREA_047,2025-05-19,Drainage,80,5474,10508,Fair,5,3,66.65,Medium,synthetic_demo
+XGB_0199,HYD_AREA_031,2025-07-14,Drainage,61,3909,7066,Good,12,17,69.93,Medium,synthetic_demo
+XGB_0200,HYD_AREA_026,2025-01-20,Drainage,100,9173,16970,Poor,9,30,100.0,High,synthetic_demo
+XGB_0201,HYD_AREA_085,2025-11-30,Drainage,13,1775,13293,Good,9,2,32.71,Low,synthetic_demo
+XGB_0202,HYD_AREA_057,2025-06-20,Drainage,4,459,4789,Fair,13,7,41.98,Medium,synthetic_demo
+XGB_0203,HYD_AREA_057,2025-09-03,Drainage,113,10107,24133,Fair,13,17,90.51,High,synthetic_demo
+XGB_0204,HYD_AREA_017,2025-12-18,Drainage,93,5772,14455,Poor,8,3,73.63,High,synthetic_demo
+XGB_0205,HYD_AREA_086,2025-07-04,Drainage,112,7659,7659,Fair,1,4,81.8,High,synthetic_demo
+XGB_0206,HYD_AREA_049,2025-05-16,Drainage,68,7105,9222,Fair,9,29,90.91,High,synthetic_demo
+XGB_0207,HYD_AREA_013,2025-01-25,Drainage,106,5756,5756,Fair,11,10,100.0,High,synthetic_demo
+XGB_0208,HYD_AREA_003,2025-09-01,Drainage,63,4053,28350,Good,11,19,58.46,Medium,synthetic_demo
+XGB_0209,HYD_AREA_080,2025-07-29,Drainage,17,1014,19515,Fair,14,7,45.15,Medium,synthetic_demo
+XGB_0210,HYD_AREA_019,2025-10-23,Drainage,42,1846,16037,Fair,15,7,61.39,Medium,synthetic_demo
+XGB_0211,HYD_AREA_025,2025-05-14,Drainage,70,4720,4720,Fair,5,13,82.28,High,synthetic_demo
+XGB_0212,HYD_AREA_004,2025-09-15,Drainage,65,6624,8123,Good,15,7,78.01,High,synthetic_demo
+XGB_0213,HYD_AREA_053,2025-01-02,Drainage,47,4299,27333,Poor,14,4,66.84,Medium,synthetic_demo
+XGB_0214,HYD_AREA_084,2025-05-25,Drainage,19,1255,28266,Fair,14,22,56.72,Medium,synthetic_demo
+XGB_0215,HYD_AREA_099,2025-03-14,Drainage,21,1950,4235,Good,8,9,40.71,Medium,synthetic_demo
+XGB_0216,HYD_AREA_010,2025-11-04,Drainage,105,8368,21033,Poor,13,19,93.92,High,synthetic_demo
+XGB_0217,HYD_AREA_063,2025-06-09,Drainage,111,5990,5990,Fair,15,27,100.0,High,synthetic_demo
+XGB_0218,HYD_AREA_071,2025-05-23,Drainage,58,4165,23516,Fair,6,6,52.5,Medium,synthetic_demo
+XGB_0219,HYD_AREA_073,2025-04-26,Drainage,69,4629,4629,Poor,13,19,100.0,High,synthetic_demo
+XGB_0220,HYD_AREA_016,2025-12-08,Drainage,25,3151,26160,Fair,3,20,40.58,Medium,synthetic_demo
+XGB_0221,HYD_AREA_005,2025-05-13,Drainage,68,2480,9000,Good,2,6,42.99,Medium,synthetic_demo
+XGB_0222,HYD_AREA_092,2025-08-14,Drainage,65,5270,9672,Poor,3,26,78.84,High,synthetic_demo
+XGB_0223,HYD_AREA_063,2025-11-07,Drainage,16,849,28594,Good,6,14,33.88,Low,synthetic_demo
+XGB_0224,HYD_AREA_038,2025-08-27,Drainage,93,6266,11453,Fair,2,6,61.32,Medium,synthetic_demo
+XGB_0225,HYD_AREA_017,2025-10-28,Drainage,97,7554,14456,Good,11,29,84.65,High,synthetic_demo
+XGB_0226,HYD_AREA_011,2025-12-30,Waste Management,60,3713,18693,Fair,8,9,48.42,Medium,synthetic_demo
+XGB_0227,HYD_AREA_052,2025-08-12,Waste Management,111,3716,15644,Fair,3,7,58.57,Medium,synthetic_demo
+XGB_0228,HYD_AREA_006,2025-01-23,Waste Management,118,7317,18942,Fair,14,22,94.36,High,synthetic_demo
+XGB_0229,HYD_AREA_072,2025-04-21,Waste Management,90,5729,20325,Fair,3,26,69.93,Medium,synthetic_demo
+XGB_0230,HYD_AREA_035,2025-06-05,Waste Management,80,6692,14462,Fair,15,18,85.65,High,synthetic_demo
+XGB_0231,HYD_AREA_037,2025-05-22,Waste Management,6,1080,16408,Good,9,23,37.98,Low,synthetic_demo
+XGB_0232,HYD_AREA_020,2025-02-10,Waste Management,76,6099,12783,Fair,14,17,75.42,High,synthetic_demo
+XGB_0233,HYD_AREA_081,2025-03-03,Waste Management,34,1740,6746,Fair,3,27,55.05,Medium,synthetic_demo
+XGB_0234,HYD_AREA_071,2025-04-10,Waste Management,22,1888,25497,Good,7,12,28.93,Low,synthetic_demo
+XGB_0235,HYD_AREA_039,2025-08-01,Waste Management,85,6000,6000,Good,6,15,78.17,High,synthetic_demo
+XGB_0236,HYD_AREA_075,2025-05-12,Waste Management,98,5497,5497,Good,13,11,88.43,High,synthetic_demo
+XGB_0237,HYD_AREA_024,2025-05-14,Waste Management,42,2150,15356,Poor,2,10,48.16,Medium,synthetic_demo
+XGB_0238,HYD_AREA_014,2025-10-06,Waste Management,53,2896,2896,Good,5,17,66.3,Medium,synthetic_demo
+XGB_0239,HYD_AREA_037,2025-10-31,Waste Management,76,7156,16193,Poor,7,19,79.84,High,synthetic_demo
+XGB_0240,HYD_AREA_091,2025-06-24,Waste Management,95,6200,16368,Good,1,18,58.62,Medium,synthetic_demo
+XGB_0241,HYD_AREA_050,2025-03-13,Waste Management,55,4068,13702,Poor,15,4,66.63,Medium,synthetic_demo
+XGB_0242,HYD_AREA_080,2025-04-25,Waste Management,102,4389,4389,Poor,13,5,100.0,High,synthetic_demo
+XGB_0243,HYD_AREA_075,2025-03-20,Waste Management,99,9586,9872,Fair,15,17,100.0,High,synthetic_demo
+XGB_0244,HYD_AREA_017,2025-11-01,Waste Management,24,1327,8648,Fair,15,2,43.04,Medium,synthetic_demo
+XGB_0245,HYD_AREA_068,2025-04-20,Waste Management,89,7458,7778,Fair,14,28,100.0,High,synthetic_demo
+XGB_0246,HYD_AREA_068,2025-04-07,Waste Management,98,5024,29979,Poor,4,17,74.86,High,synthetic_demo
+XGB_0247,HYD_AREA_099,2025-11-03,Waste Management,84,6914,14394,Poor,9,12,76.77,High,synthetic_demo
+XGB_0248,HYD_AREA_022,2025-03-17,Waste Management,1,427,21106,Good,15,7,30.03,Low,synthetic_demo
+XGB_0249,HYD_AREA_073,2025-03-05,Waste Management,93,4986,24774,Poor,2,12,68.31,Medium,synthetic_demo
+XGB_0250,HYD_AREA_020,2025-09-09,Waste Management,50,3668,18020,Fair,13,23,68.84,Medium,synthetic_demo
+XGB_0251,HYD_AREA_017,2025-12-20,Waste Management,79,7484,13826,Good,15,22,79.79,High,synthetic_demo
+XGB_0252,HYD_AREA_010,2025-04-16,Waste Management,57,2398,13886,Fair,2,8,41.93,Medium,synthetic_demo
+XGB_0253,HYD_AREA_022,2025-01-09,Waste Management,65,3638,27460,Fair,1,8,41.21,Medium,synthetic_demo
+XGB_0254,HYD_AREA_095,2025-01-13,Waste Management,49,2398,16619,Fair,13,8,55.38,Medium,synthetic_demo
+XGB_0255,HYD_AREA_079,2025-01-27,Waste Management,53,2890,20080,Poor,9,26,66.52,Medium,synthetic_demo
+XGB_0256,HYD_AREA_023,2025-10-05,Waste Management,7,1142,16883,Fair,4,17,34.14,Low,synthetic_demo
+XGB_0257,HYD_AREA_013,2025-12-26,Waste Management,20,2458,23973,Fair,0,27,40.66,Medium,synthetic_demo
+XGB_0258,HYD_AREA_075,2025-03-28,Waste Management,99,3773,3773,Good,4,30,90.48,High,synthetic_demo
+XGB_0259,HYD_AREA_068,2025-10-10,Waste Management,61,3795,16395,Poor,15,28,92.24,High,synthetic_demo
+XGB_0260,HYD_AREA_074,2025-12-17,Waste Management,82,5849,10461,Poor,3,14,78.39,High,synthetic_demo
+XGB_0261,HYD_AREA_082,2025-03-23,Waste Management,19,1928,27742,Fair,10,15,47.98,Medium,synthetic_demo
+XGB_0262,HYD_AREA_010,2025-05-20,Waste Management,50,4411,18928,Poor,4,19,58.0,Medium,synthetic_demo
+XGB_0263,HYD_AREA_049,2025-12-08,Waste Management,94,7718,26797,Fair,3,19,66.45,Medium,synthetic_demo
+XGB_0264,HYD_AREA_083,2025-06-30,Waste Management,3,1039,28569,Fair,11,19,41.61,Medium,synthetic_demo
+XGB_0265,HYD_AREA_046,2025-05-12,Waste Management,99,3554,12077,Fair,6,29,77.54,High,synthetic_demo
+XGB_0266,HYD_AREA_075,2025-03-20,Waste Management,31,2878,17318,Poor,11,9,58.5,Medium,synthetic_demo
+XGB_0267,HYD_AREA_041,2025-02-09,Waste Management,96,4195,23930,Good,5,29,63.86,Medium,synthetic_demo
+XGB_0268,HYD_AREA_064,2025-08-22,Waste Management,90,5701,12718,Fair,7,2,64.12,Medium,synthetic_demo
+XGB_0269,HYD_AREA_002,2025-03-03,Waste Management,101,5808,26922,Fair,2,5,49.51,Medium,synthetic_demo
+XGB_0270,HYD_AREA_091,2025-02-02,Waste Management,111,6183,21146,Good,2,4,44.66,Medium,synthetic_demo
+XGB_0271,HYD_AREA_039,2025-02-01,Waste Management,8,1231,4460,Good,8,25,43.13,Medium,synthetic_demo
+XGB_0272,HYD_AREA_078,2025-09-18,Waste Management,76,3524,3524,Fair,10,29,97.93,High,synthetic_demo
+XGB_0273,HYD_AREA_071,2025-10-03,Waste Management,21,1242,12017,Poor,12,8,52.01,Medium,synthetic_demo
+XGB_0274,HYD_AREA_025,2025-01-29,Waste Management,102,5860,24487,Poor,10,27,93.28,High,synthetic_demo
+XGB_0275,HYD_AREA_021,2025-04-01,Waste Management,91,6879,10961,Poor,1,9,72.21,High,synthetic_demo
+XGB_0276,HYD_AREA_029,2025-02-19,Waste Management,67,5036,11828,Fair,9,28,74.0,High,synthetic_demo
+XGB_0277,HYD_AREA_062,2025-12-30,Waste Management,68,2735,21056,Fair,0,13,40.69,Medium,synthetic_demo
+XGB_0278,HYD_AREA_023,2025-07-19,Waste Management,53,4852,11593,Poor,3,14,64.01,Medium,synthetic_demo
+XGB_0279,HYD_AREA_097,2025-08-23,Waste Management,65,4943,15495,Poor,14,15,81.0,High,synthetic_demo
+XGB_0280,HYD_AREA_061,2025-12-03,Waste Management,89,3082,29964,Fair,8,16,65.07,Medium,synthetic_demo
+XGB_0281,HYD_AREA_056,2025-08-03,Waste Management,117,7578,15379,Good,6,7,59.57,Medium,synthetic_demo
+XGB_0282,HYD_AREA_001,2025-07-28,Waste Management,52,4639,20270,Good,11,7,44.98,Medium,synthetic_demo
+XGB_0283,HYD_AREA_011,2025-04-16,Waste Management,117,8224,28380,Fair,6,20,75.62,High,synthetic_demo
+XGB_0284,HYD_AREA_076,2025-11-07,Waste Management,28,3420,6708,Poor,8,15,61.48,Medium,synthetic_demo
+XGB_0285,HYD_AREA_081,2025-01-04,Waste Management,88,4029,8658,Fair,10,18,79.99,High,synthetic_demo
+XGB_0286,HYD_AREA_100,2025-03-16,Waste Management,64,5184,5507,Poor,13,10,95.29,High,synthetic_demo
+XGB_0287,HYD_AREA_067,2025-08-01,Waste Management,27,1809,25403,Poor,7,30,63.82,Medium,synthetic_demo
+XGB_0288,HYD_AREA_080,2025-07-04,Waste Management,33,2203,28916,Fair,8,6,39.18,Low,synthetic_demo
+XGB_0289,HYD_AREA_042,2025-07-14,Waste Management,82,4713,13729,Fair,8,4,61.3,Medium,synthetic_demo
+XGB_0290,HYD_AREA_086,2025-01-08,Waste Management,54,2315,29599,Fair,12,6,52.05,Medium,synthetic_demo
+XGB_0291,HYD_AREA_012,2025-10-21,Waste Management,31,2027,7367,Good,0,2,19.46,Low,synthetic_demo
+XGB_0292,HYD_AREA_003,2025-06-11,Waste Management,102,3111,3111,Fair,9,21,100.0,High,synthetic_demo
+XGB_0293,HYD_AREA_046,2025-09-06,Waste Management,76,2851,24576,Good,9,28,61.65,Medium,synthetic_demo
+XGB_0294,HYD_AREA_016,2025-12-14,Waste Management,25,1920,27178,Fair,11,29,53.23,Medium,synthetic_demo
+XGB_0295,HYD_AREA_056,2025-06-25,Waste Management,111,6046,10757,Good,11,2,72.21,High,synthetic_demo
+XGB_0296,HYD_AREA_072,2025-10-11,Waste Management,3,711,12374,Fair,10,19,38.08,Low,synthetic_demo
+XGB_0297,HYD_AREA_023,2025-11-12,Waste Management,6,451,22072,Fair,11,8,34.29,Low,synthetic_demo
+XGB_0298,HYD_AREA_023,2025-12-04,Waste Management,55,3051,18317,Poor,2,18,61.81,Medium,synthetic_demo
+XGB_0299,HYD_AREA_061,2025-09-19,Waste Management,64,5760,28064,Poor,8,1,57.52,Medium,synthetic_demo
+XGB_0300,HYD_AREA_098,2025-11-07,Waste Management,109,7895,7895,Good,8,3,80.69,High,synthetic_demo
+XGB_0301,HYD_AREA_094,2025-09-14,Healthcare,58,4188,19405,Good,10,23,55.83,Medium,synthetic_demo
+XGB_0302,HYD_AREA_073,2025-12-20,Healthcare,102,6646,7544,Fair,8,28,97.54,High,synthetic_demo
+XGB_0303,HYD_AREA_003,2025-02-05,Healthcare,117,4897,12647,Fair,9,29,96.06,High,synthetic_demo
+XGB_0304,HYD_AREA_022,2025-08-14,Healthcare,104,5553,28539,Good,13,18,67.73,Medium,synthetic_demo
+XGB_0305,HYD_AREA_013,2025-11-10,Healthcare,12,1822,9592,Good,7,3,23.0,Low,synthetic_demo
+XGB_0306,HYD_AREA_034,2025-05-03,Healthcare,9,1279,11028,Fair,12,16,45.64,Medium,synthetic_demo
+XGB_0307,HYD_AREA_074,2025-05-09,Healthcare,39,3036,16802,Poor,4,20,58.18,Medium,synthetic_demo
+XGB_0308,HYD_AREA_089,2025-01-18,Healthcare,59,2330,21461,Poor,2,4,48.49,Medium,synthetic_demo
+XGB_0309,HYD_AREA_046,2025-09-08,Healthcare,26,1845,6344,Fair,4,9,41.12,Medium,synthetic_demo
+XGB_0310,HYD_AREA_062,2025-04-01,Healthcare,45,3936,10918,Good,1,14,41.48,Medium,synthetic_demo
+XGB_0311,HYD_AREA_033,2025-08-19,Healthcare,92,5544,13337,Fair,3,18,67.96,Medium,synthetic_demo
+XGB_0312,HYD_AREA_052,2025-12-10,Healthcare,42,3026,23304,Poor,1,26,60.55,Medium,synthetic_demo
+XGB_0313,HYD_AREA_098,2025-12-25,Healthcare,30,2112,19038,Poor,8,19,58.54,Medium,synthetic_demo
+XGB_0314,HYD_AREA_099,2025-05-03,Healthcare,6,1296,22771,Good,8,24,41.16,Medium,synthetic_demo
+XGB_0315,HYD_AREA_020,2025-04-17,Healthcare,10,1291,2946,Fair,0,15,45.28,Medium,synthetic_demo
+XGB_0316,HYD_AREA_048,2025-07-03,Healthcare,16,1183,3012,Fair,15,24,66.48,Medium,synthetic_demo
+XGB_0317,HYD_AREA_055,2025-09-23,Healthcare,2,1051,14150,Poor,15,8,51.98,Medium,synthetic_demo
+XGB_0318,HYD_AREA_086,2025-07-13,Healthcare,54,2819,6991,Fair,13,10,69.34,Medium,synthetic_demo
+XGB_0319,HYD_AREA_023,2025-06-18,Healthcare,85,2610,7628,Fair,9,7,62.88,Medium,synthetic_demo
+XGB_0320,HYD_AREA_019,2025-09-19,Healthcare,81,4025,16441,Fair,5,10,54.73,Medium,synthetic_demo
+XGB_0321,HYD_AREA_066,2025-09-28,Healthcare,13,1698,12436,Good,0,28,30.77,Low,synthetic_demo
+XGB_0322,HYD_AREA_004,2025-02-17,Healthcare,60,2973,18025,Poor,3,11,58.5,Medium,synthetic_demo
+XGB_0323,HYD_AREA_091,2025-07-12,Healthcare,28,2699,28265,Poor,10,30,75.87,High,synthetic_demo
+XGB_0324,HYD_AREA_017,2025-01-06,Healthcare,63,4708,5573,Fair,2,11,68.18,Medium,synthetic_demo
+XGB_0325,HYD_AREA_061,2025-04-10,Healthcare,32,1081,9776,Good,5,9,30.65,Low,synthetic_demo
+XGB_0326,HYD_AREA_020,2025-02-02,Healthcare,46,3371,27593,Fair,5,10,44.71,Medium,synthetic_demo
+XGB_0327,HYD_AREA_023,2025-12-07,Healthcare,35,4059,8058,Poor,0,16,58.31,Medium,synthetic_demo
+XGB_0328,HYD_AREA_032,2025-06-08,Healthcare,93,3416,3416,Poor,13,6,100.0,High,synthetic_demo
+XGB_0329,HYD_AREA_072,2025-01-14,Healthcare,92,8592,24676,Good,14,30,84.58,High,synthetic_demo
+XGB_0330,HYD_AREA_010,2025-08-08,Healthcare,79,2833,10105,Poor,12,25,86.19,High,synthetic_demo
+XGB_0331,HYD_AREA_035,2025-12-21,Healthcare,91,5189,5191,Good,10,14,85.26,High,synthetic_demo
+XGB_0332,HYD_AREA_040,2025-06-05,Healthcare,52,4686,25889,Poor,4,28,71.66,High,synthetic_demo
+XGB_0333,HYD_AREA_075,2025-08-11,Healthcare,7,719,16319,Fair,0,5,25.9,Low,synthetic_demo
+XGB_0334,HYD_AREA_057,2025-10-14,Healthcare,50,5099,17659,Poor,4,1,52.03,Medium,synthetic_demo
+XGB_0335,HYD_AREA_058,2025-04-26,Healthcare,20,1379,25549,Good,3,25,39.2,Low,synthetic_demo
+XGB_0336,HYD_AREA_027,2025-01-22,Healthcare,112,4056,7065,Poor,9,8,86.75,High,synthetic_demo
+XGB_0337,HYD_AREA_019,2025-05-26,Healthcare,2,188,24938,Fair,1,20,27.65,Low,synthetic_demo
+XGB_0338,HYD_AREA_094,2025-09-20,Healthcare,108,4365,9684,Fair,5,11,69.33,Medium,synthetic_demo
+XGB_0339,HYD_AREA_048,2025-10-09,Healthcare,86,6798,6798,Fair,5,27,96.58,High,synthetic_demo
+XGB_0340,HYD_AREA_093,2025-04-25,Healthcare,11,947,27827,Poor,14,11,51.95,Medium,synthetic_demo
+XGB_0341,HYD_AREA_069,2025-08-12,Healthcare,89,3824,14942,Poor,13,8,80.64,High,synthetic_demo
+XGB_0342,HYD_AREA_007,2025-02-04,Healthcare,5,455,18754,Poor,5,14,39.32,Low,synthetic_demo
+XGB_0343,HYD_AREA_089,2025-06-20,Healthcare,49,2570,23084,Fair,15,12,61.31,Medium,synthetic_demo
+XGB_0344,HYD_AREA_030,2025-03-13,Healthcare,8,949,25482,Fair,4,6,25.22,Low,synthetic_demo
+XGB_0345,HYD_AREA_031,2025-04-16,Healthcare,40,2355,19741,Fair,15,24,67.25,Medium,synthetic_demo
+XGB_0346,HYD_AREA_059,2025-01-22,Healthcare,116,7261,9805,Poor,14,11,100.0,High,synthetic_demo
+XGB_0347,HYD_AREA_100,2025-09-15,Healthcare,65,4697,21704,Good,7,17,52.13,Medium,synthetic_demo
+XGB_0348,HYD_AREA_076,2025-08-12,Healthcare,61,3319,3319,Fair,13,28,99.94,High,synthetic_demo
+XGB_0349,HYD_AREA_060,2025-10-01,Healthcare,63,2604,25668,Fair,11,7,60.24,Medium,synthetic_demo
+XGB_0350,HYD_AREA_065,2025-03-16,Healthcare,51,2843,15930,Poor,5,10,53.5,Medium,synthetic_demo
+XGB_0351,HYD_AREA_050,2025-08-03,Healthcare,86,4116,26921,Fair,3,30,66.45,Medium,synthetic_demo
+XGB_0352,HYD_AREA_062,2025-01-16,Healthcare,37,2393,8403,Poor,0,19,55.94,Medium,synthetic_demo
+XGB_0353,HYD_AREA_096,2025-02-03,Healthcare,119,10225,22561,Fair,3,15,78.22,High,synthetic_demo
+XGB_0354,HYD_AREA_033,2025-12-30,Healthcare,63,3769,24130,Poor,9,19,69.77,Medium,synthetic_demo
+XGB_0355,HYD_AREA_040,2025-10-28,Healthcare,1,229,13079,Fair,4,6,22.56,Low,synthetic_demo
+XGB_0356,HYD_AREA_050,2025-01-30,Healthcare,111,3981,19425,Fair,1,23,69.41,Medium,synthetic_demo
+XGB_0357,HYD_AREA_040,2025-02-26,Healthcare,40,1763,29616,Fair,6,15,49.09,Medium,synthetic_demo
+XGB_0358,HYD_AREA_038,2025-11-13,Healthcare,100,4206,11096,Poor,6,7,82.2,High,synthetic_demo
+XGB_0359,HYD_AREA_056,2025-01-03,Healthcare,79,2985,18113,Good,8,22,58.58,Medium,synthetic_demo
+XGB_0360,HYD_AREA_073,2025-01-09,Healthcare,8,1391,2542,Good,13,10,47.39,Medium,synthetic_demo
+XGB_0361,HYD_AREA_055,2025-01-11,Healthcare,89,5874,25975,Fair,4,24,74.31,High,synthetic_demo
+XGB_0362,HYD_AREA_051,2025-06-24,Healthcare,119,4797,26956,Good,13,9,68.23,Medium,synthetic_demo
+XGB_0363,HYD_AREA_012,2025-04-07,Healthcare,111,5505,20794,Fair,0,11,59.01,Medium,synthetic_demo
+XGB_0364,HYD_AREA_047,2025-02-24,Healthcare,40,2621,14269,Fair,4,2,29.25,Low,synthetic_demo
+XGB_0365,HYD_AREA_022,2025-07-28,Healthcare,69,5209,19058,Poor,1,8,58.1,Medium,synthetic_demo
+XGB_0366,HYD_AREA_001,2025-10-01,Healthcare,6,647,5621,Good,15,11,41.46,Medium,synthetic_demo
+XGB_0367,HYD_AREA_085,2025-12-21,Healthcare,42,2862,18784,Good,4,18,37.42,Low,synthetic_demo
+XGB_0368,HYD_AREA_026,2025-10-17,Healthcare,23,1165,13400,Fair,8,7,37.74,Low,synthetic_demo
+XGB_0369,HYD_AREA_047,2025-07-14,Healthcare,47,2794,27045,Fair,11,9,54.49,Medium,synthetic_demo
+XGB_0370,HYD_AREA_094,2025-06-27,Healthcare,82,8143,17334,Fair,6,28,84.29,High,synthetic_demo
+XGB_0371,HYD_AREA_039,2025-10-02,Healthcare,118,4034,9009,Poor,12,4,87.76,High,synthetic_demo
+XGB_0372,HYD_AREA_077,2025-09-10,Healthcare,12,1985,25541,Good,11,2,26.82,Low,synthetic_demo
+XGB_0373,HYD_AREA_027,2025-03-11,Healthcare,8,1431,23327,Fair,7,10,35.93,Low,synthetic_demo
+XGB_0374,HYD_AREA_096,2025-12-31,Healthcare,71,4128,4128,Poor,6,12,92.0,High,synthetic_demo
+XGB_0375,HYD_AREA_001,2025-11-07,Healthcare,83,5410,8066,Fair,0,2,56.41,Medium,synthetic_demo
+XGB_0376,HYD_AREA_059,2025-10-16,Education,71,5663,23314,Fair,11,9,58.17,Medium,synthetic_demo
+XGB_0377,HYD_AREA_078,2025-05-26,Education,13,1077,5282,Poor,8,21,56.05,Medium,synthetic_demo
+XGB_0378,HYD_AREA_060,2025-08-04,Education,27,2962,7510,Fair,13,29,69.9,Medium,synthetic_demo
+XGB_0379,HYD_AREA_073,2025-10-13,Education,101,8502,14772,Fair,4,12,70.44,High,synthetic_demo
+XGB_0380,HYD_AREA_015,2025-03-27,Education,24,2146,12834,Fair,15,30,63.17,Medium,synthetic_demo
+XGB_0381,HYD_AREA_023,2025-03-10,Education,5,1075,11803,Poor,12,25,58.98,Medium,synthetic_demo
+XGB_0382,HYD_AREA_041,2025-07-21,Education,7,1559,7793,Fair,14,30,64.78,Medium,synthetic_demo
+XGB_0383,HYD_AREA_075,2025-09-19,Education,82,2743,25035,Poor,12,29,89.7,High,synthetic_demo
+XGB_0384,HYD_AREA_028,2025-08-23,Education,7,1294,25741,Fair,14,24,56.26,Medium,synthetic_demo
+XGB_0385,HYD_AREA_069,2025-01-08,Education,105,3455,14043,Good,5,26,67.12,Medium,synthetic_demo
+XGB_0386,HYD_AREA_023,2025-05-15,Education,66,2994,27654,Fair,2,25,55.58,Medium,synthetic_demo
+XGB_0387,HYD_AREA_030,2025-07-16,Education,53,4864,27586,Poor,15,25,82.24,High,synthetic_demo
+XGB_0388,HYD_AREA_063,2025-08-02,Education,77,6173,19452,Poor,0,28,75.13,High,synthetic_demo
+XGB_0389,HYD_AREA_015,2025-10-31,Education,40,2439,12875,Fair,0,14,43.22,Medium,synthetic_demo
+XGB_0390,HYD_AREA_025,2025-04-27,Education,64,3327,6290,Good,15,19,70.7,High,synthetic_demo
+XGB_0391,HYD_AREA_056,2025-12-29,Education,30,2600,17441,Poor,5,9,51.77,Medium,synthetic_demo
+XGB_0392,HYD_AREA_003,2025-09-05,Education,32,2711,9053,Fair,0,19,48.71,Medium,synthetic_demo
+XGB_0393,HYD_AREA_025,2025-01-30,Education,82,4927,16706,Good,11,3,53.26,Medium,synthetic_demo
+XGB_0394,HYD_AREA_100,2025-07-18,Education,2,768,12874,Poor,12,12,44.62,Medium,synthetic_demo
+XGB_0395,HYD_AREA_027,2025-05-10,Education,97,4114,21660,Poor,6,1,57.66,Medium,synthetic_demo
+XGB_0396,HYD_AREA_008,2025-03-02,Education,24,1208,22358,Fair,7,7,38.19,Low,synthetic_demo
+XGB_0397,HYD_AREA_009,2025-09-25,Education,103,9782,13565,Poor,13,4,90.26,High,synthetic_demo
+XGB_0398,HYD_AREA_092,2025-05-31,Education,11,1525,16141,Poor,15,14,58.15,Medium,synthetic_demo
+XGB_0399,HYD_AREA_053,2025-10-15,Education,85,3066,15060,Good,7,19,52.7,Medium,synthetic_demo
+XGB_0400,HYD_AREA_067,2025-10-10,Education,43,3920,3920,Fair,13,10,78.1,High,synthetic_demo
+XGB_0401,HYD_AREA_014,2025-11-28,Education,36,3266,16092,Poor,14,28,79.31,High,synthetic_demo
+XGB_0402,HYD_AREA_096,2025-07-24,Education,28,3427,12152,Fair,9,22,52.07,Medium,synthetic_demo
+XGB_0403,HYD_AREA_006,2025-09-13,Education,81,2733,10435,Fair,13,27,81.12,High,synthetic_demo
+XGB_0404,HYD_AREA_053,2025-03-14,Education,52,3605,7584,Poor,3,12,66.52,Medium,synthetic_demo
+XGB_0405,HYD_AREA_083,2025-12-03,Education,120,10823,23400,Fair,13,27,100.0,High,synthetic_demo
+XGB_0406,HYD_AREA_080,2025-10-25,Education,80,2637,2637,Fair,15,8,85.98,High,synthetic_demo
+XGB_0407,HYD_AREA_007,2025-04-25,Education,110,6714,14954,Fair,8,4,68.04,Medium,synthetic_demo
+XGB_0408,HYD_AREA_085,2025-10-22,Education,48,3090,21466,Fair,3,17,45.97,Medium,synthetic_demo
+XGB_0409,HYD_AREA_061,2025-07-01,Education,89,4428,4428,Fair,9,14,88.54,High,synthetic_demo
+XGB_0410,HYD_AREA_048,2025-09-30,Education,70,4325,11005,Poor,7,21,76.94,High,synthetic_demo
+XGB_0411,HYD_AREA_066,2025-05-12,Education,70,3356,24516,Fair,10,9,59.97,Medium,synthetic_demo
+XGB_0412,HYD_AREA_024,2025-05-20,Education,81,3957,22914,Poor,8,12,69.68,Medium,synthetic_demo
+XGB_0413,HYD_AREA_024,2025-12-08,Education,60,3071,29641,Poor,8,1,52.27,Medium,synthetic_demo
+XGB_0414,HYD_AREA_088,2025-09-16,Education,83,5194,25916,Poor,6,17,76.59,High,synthetic_demo
+XGB_0415,HYD_AREA_051,2025-04-20,Education,38,1633,27044,Fair,12,30,61.08,Medium,synthetic_demo
+XGB_0416,HYD_AREA_025,2025-12-28,Education,17,2411,25251,Fair,3,16,36.43,Low,synthetic_demo
+XGB_0417,HYD_AREA_043,2025-04-03,Education,63,5647,17803,Fair,10,13,61.51,Medium,synthetic_demo
+XGB_0418,HYD_AREA_075,2025-01-01,Education,95,3442,25681,Poor,6,27,79.65,High,synthetic_demo
+XGB_0419,HYD_AREA_020,2025-04-04,Education,5,554,17764,Fair,12,6,36.03,Low,synthetic_demo
+XGB_0420,HYD_AREA_071,2025-10-07,Education,70,2508,5065,Good,13,7,64.24,Medium,synthetic_demo
+XGB_0421,HYD_AREA_048,2025-01-13,Education,22,1043,24026,Fair,15,1,44.12,Medium,synthetic_demo
+XGB_0422,HYD_AREA_073,2025-11-14,Education,101,3663,17145,Poor,14,28,100.0,High,synthetic_demo
+XGB_0423,HYD_AREA_053,2025-01-10,Education,69,5402,21039,Poor,9,4,60.49,Medium,synthetic_demo
+XGB_0424,HYD_AREA_008,2025-12-28,Education,114,6491,18761,Poor,10,25,98.21,High,synthetic_demo
+XGB_0425,HYD_AREA_030,2025-07-22,Education,27,1655,24487,Poor,9,11,51.56,Medium,synthetic_demo
+XGB_0426,HYD_AREA_052,2025-08-21,Education,32,1578,5291,Good,1,3,28.58,Low,synthetic_demo
+XGB_0427,HYD_AREA_032,2025-07-16,Education,92,7415,8457,Fair,9,29,98.36,High,synthetic_demo
+XGB_0428,HYD_AREA_084,2025-07-31,Education,10,991,22014,Poor,15,3,48.47,Medium,synthetic_demo
+XGB_0429,HYD_AREA_086,2025-06-14,Education,65,5810,12215,Poor,0,15,62.91,Medium,synthetic_demo
+XGB_0430,HYD_AREA_060,2025-03-09,Education,15,1272,19209,Poor,5,24,51.98,Medium,synthetic_demo
+XGB_0431,HYD_AREA_003,2025-07-10,Education,25,2712,3736,Good,7,1,37.52,Low,synthetic_demo
+XGB_0432,HYD_AREA_029,2025-09-05,Education,72,4098,23581,Fair,14,21,75.39,High,synthetic_demo
+XGB_0433,HYD_AREA_088,2025-07-10,Education,117,9959,28787,Fair,3,7,61.86,Medium,synthetic_demo
+XGB_0434,HYD_AREA_074,2025-09-07,Education,27,2074,6057,Poor,7,23,66.3,Medium,synthetic_demo
+XGB_0435,HYD_AREA_096,2025-07-18,Education,60,3331,20370,Good,3,24,49.5,Medium,synthetic_demo
+XGB_0436,HYD_AREA_044,2025-01-24,Education,30,1559,23363,Good,9,18,40.69,Medium,synthetic_demo
+XGB_0437,HYD_AREA_072,2025-04-10,Education,75,4519,12853,Poor,6,10,68.62,Medium,synthetic_demo
+XGB_0438,HYD_AREA_094,2025-06-01,Education,80,4617,15247,Fair,11,30,81.11,High,synthetic_demo
+XGB_0439,HYD_AREA_022,2025-04-20,Education,63,3508,11237,Good,13,13,55.66,Medium,synthetic_demo
+XGB_0440,HYD_AREA_094,2025-04-02,Education,5,1233,8672,Good,7,13,27.16,Low,synthetic_demo
+XGB_0441,HYD_AREA_089,2025-03-13,Education,15,1070,8462,Fair,8,1,29.39,Low,synthetic_demo
+XGB_0442,HYD_AREA_010,2025-01-09,Education,66,3640,11152,Good,8,13,54.9,Medium,synthetic_demo
+XGB_0443,HYD_AREA_040,2025-07-18,Education,85,3122,5478,Poor,9,19,84.7,High,synthetic_demo
+XGB_0444,HYD_AREA_099,2025-06-03,Education,11,1429,22661,Fair,3,17,33.45,Low,synthetic_demo
+XGB_0445,HYD_AREA_044,2025-08-05,Education,37,3656,28110,Fair,10,20,58.55,Medium,synthetic_demo
+XGB_0446,HYD_AREA_006,2025-07-14,Education,111,7799,13708,Good,11,16,81.71,High,synthetic_demo
+XGB_0447,HYD_AREA_012,2025-10-12,Education,40,1838,15047,Poor,14,2,54.6,Medium,synthetic_demo
+XGB_0448,HYD_AREA_100,2025-08-04,Education,1,156,17753,Good,10,6,24.24,Low,synthetic_demo
+XGB_0449,HYD_AREA_042,2025-09-20,Education,57,4572,18674,Fair,9,7,57.09,Medium,synthetic_demo
+XGB_0450,HYD_AREA_089,2025-03-31,Education,81,5438,27930,Good,5,28,61.27,Medium,synthetic_demo
+XGB_0451,HYD_AREA_016,2025-02-15,Street Lighting,101,8508,29633,Good,10,9,61.01,Medium,synthetic_demo
+XGB_0452,HYD_AREA_033,2025-10-11,Street Lighting,96,9485,17312,Good,14,3,67.74,Medium,synthetic_demo
+XGB_0453,HYD_AREA_047,2025-08-28,Street Lighting,96,5178,27618,Good,8,1,44.52,Medium,synthetic_demo
+XGB_0454,HYD_AREA_097,2025-04-27,Street Lighting,13,976,27567,Fair,4,11,27.42,Low,synthetic_demo
+XGB_0455,HYD_AREA_016,2025-12-08,Street Lighting,120,7123,18281,Poor,4,4,77.52,High,synthetic_demo
+XGB_0456,HYD_AREA_051,2025-11-16,Street Lighting,99,7686,13512,Poor,11,19,88.68,High,synthetic_demo
+XGB_0457,HYD_AREA_083,2025-12-18,Street Lighting,90,6168,10151,Good,11,8,69.97,Medium,synthetic_demo
+XGB_0458,HYD_AREA_055,2025-04-23,Street Lighting,20,1959,28119,Poor,12,5,50.89,Medium,synthetic_demo
+XGB_0459,HYD_AREA_087,2025-08-15,Street Lighting,6,898,17983,Good,13,30,50.91,Medium,synthetic_demo
+XGB_0460,HYD_AREA_083,2025-10-10,Street Lighting,72,3315,20105,Good,11,12,49.85,Medium,synthetic_demo
+XGB_0461,HYD_AREA_054,2025-06-13,Street Lighting,40,3181,5545,Fair,5,27,67.69,Medium,synthetic_demo
+XGB_0462,HYD_AREA_070,2025-04-30,Street Lighting,34,3307,17029,Good,15,18,51.86,Medium,synthetic_demo
+XGB_0463,HYD_AREA_036,2025-11-07,Street Lighting,72,5150,22914,Fair,6,5,49.86,Medium,synthetic_demo
+XGB_0464,HYD_AREA_086,2025-04-03,Street Lighting,73,2625,2625,Good,12,12,74.04,High,synthetic_demo
+XGB_0465,HYD_AREA_015,2025-11-24,Street Lighting,16,1797,29598,Good,4,6,18.54,Low,synthetic_demo
+XGB_0466,HYD_AREA_038,2025-12-23,Street Lighting,111,8987,8987,Poor,7,7,94.13,High,synthetic_demo
+XGB_0467,HYD_AREA_032,2025-01-10,Street Lighting,82,4396,20170,Poor,7,3,61.11,Medium,synthetic_demo
+XGB_0468,HYD_AREA_079,2025-03-20,Street Lighting,74,4877,19203,Good,9,26,64.41,Medium,synthetic_demo
+XGB_0469,HYD_AREA_024,2025-11-30,Street Lighting,97,4526,18939,Poor,5,12,69.47,Medium,synthetic_demo
+XGB_0470,HYD_AREA_041,2025-12-18,Street Lighting,22,1741,20409,Good,7,16,35.38,Low,synthetic_demo
+XGB_0471,HYD_AREA_054,2025-10-10,Street Lighting,12,1930,22398,Fair,0,19,34.33,Low,synthetic_demo
+XGB_0472,HYD_AREA_027,2025-10-05,Street Lighting,27,1139,9065,Poor,10,25,68.29,Medium,synthetic_demo
+XGB_0473,HYD_AREA_093,2025-03-06,Street Lighting,56,3997,8144,Poor,6,27,78.81,High,synthetic_demo
+XGB_0474,HYD_AREA_086,2025-05-23,Street Lighting,116,7581,13232,Good,0,10,59.71,Medium,synthetic_demo
+XGB_0475,HYD_AREA_094,2025-07-31,Street Lighting,27,2683,28714,Poor,4,20,53.68,Medium,synthetic_demo
+XGB_0476,HYD_AREA_034,2025-04-04,Street Lighting,78,2992,22038,Fair,15,21,71.21,High,synthetic_demo
+XGB_0477,HYD_AREA_060,2025-12-31,Street Lighting,1,520,20552,Good,12,21,37.24,Low,synthetic_demo
+XGB_0478,HYD_AREA_028,2025-03-11,Street Lighting,20,1768,20402,Fair,5,2,24.0,Low,synthetic_demo
+XGB_0479,HYD_AREA_028,2025-07-17,Street Lighting,31,2398,17398,Poor,1,13,43.19,Medium,synthetic_demo
+XGB_0480,HYD_AREA_010,2025-01-21,Street Lighting,6,958,21534,Poor,12,17,52.54,Medium,synthetic_demo
+XGB_0481,HYD_AREA_004,2025-05-29,Street Lighting,2,377,12855,Poor,1,2,27.02,Low,synthetic_demo
+XGB_0482,HYD_AREA_064,2025-01-01,Street Lighting,89,3431,3431,Good,13,11,78.74,High,synthetic_demo
+XGB_0483,HYD_AREA_031,2025-10-13,Street Lighting,97,3811,12231,Fair,0,3,47.34,Medium,synthetic_demo
+XGB_0484,HYD_AREA_092,2025-09-18,Street Lighting,38,3682,15310,Good,15,2,46.17,Medium,synthetic_demo
+XGB_0485,HYD_AREA_007,2025-08-29,Street Lighting,28,1165,21493,Good,12,19,47.45,Medium,synthetic_demo
+XGB_0486,HYD_AREA_068,2025-11-13,Street Lighting,86,7283,7283,Good,10,4,76.44,High,synthetic_demo
+XGB_0487,HYD_AREA_070,2025-01-10,Street Lighting,5,959,2620,Fair,13,15,50.14,Medium,synthetic_demo
+XGB_0488,HYD_AREA_006,2025-04-16,Street Lighting,10,904,29750,Good,13,18,36.31,Low,synthetic_demo
+XGB_0489,HYD_AREA_061,2025-07-31,Street Lighting,30,2772,3238,Fair,12,12,72.55,High,synthetic_demo
+XGB_0490,HYD_AREA_010,2025-12-01,Street Lighting,19,2251,18041,Poor,12,25,66.97,Medium,synthetic_demo
+XGB_0491,HYD_AREA_053,2025-08-17,Street Lighting,102,2992,28027,Good,3,4,37.79,Low,synthetic_demo
+XGB_0492,HYD_AREA_036,2025-09-30,Street Lighting,85,7291,7291,Good,9,26,86.82,High,synthetic_demo
+XGB_0493,HYD_AREA_062,2025-04-16,Street Lighting,99,2857,2857,Fair,8,25,98.58,High,synthetic_demo
+XGB_0494,HYD_AREA_070,2025-08-25,Street Lighting,17,2368,7672,Good,10,9,35.39,Low,synthetic_demo
+XGB_0495,HYD_AREA_017,2025-06-13,Street Lighting,29,1889,14582,Good,8,5,29.05,Low,synthetic_demo
+XGB_0496,HYD_AREA_096,2025-07-25,Street Lighting,35,2463,9146,Poor,5,29,66.22,Medium,synthetic_demo
+XGB_0497,HYD_AREA_079,2025-04-21,Street Lighting,16,1136,10748,Fair,4,25,43.37,Medium,synthetic_demo
+XGB_0498,HYD_AREA_048,2025-01-14,Street Lighting,117,5847,5847,Fair,4,21,92.2,High,synthetic_demo
+XGB_0499,HYD_AREA_009,2025-04-19,Street Lighting,98,5289,5289,Good,0,3,58.9,Medium,synthetic_demo
+XGB_0500,HYD_AREA_008,2025-10-06,Street Lighting,58,2888,2896,Good,3,30,72.82,High,synthetic_demo
+XGB_0501,HYD_AREA_033,2025-07-22,Street Lighting,113,6355,6355,Fair,11,22,100.0,High,synthetic_demo
+XGB_0502,HYD_AREA_082,2025-08-31,Street Lighting,59,3819,7438,Good,5,20,58.36,Medium,synthetic_demo
+XGB_0503,HYD_AREA_004,2025-01-14,Street Lighting,13,592,10080,Fair,0,19,32.71,Low,synthetic_demo
+XGB_0504,HYD_AREA_010,2025-06-29,Street Lighting,53,3253,6146,Fair,11,17,72.72,High,synthetic_demo
+XGB_0505,HYD_AREA_002,2025-06-23,Street Lighting,45,3447,29074,Fair,2,1,27.98,Low,synthetic_demo
+XGB_0506,HYD_AREA_032,2025-01-23,Street Lighting,31,3028,14767,Good,11,28,53.28,Medium,synthetic_demo
+XGB_0507,HYD_AREA_048,2025-06-09,Street Lighting,39,3594,18990,Poor,8,17,64.69,Medium,synthetic_demo
+XGB_0508,HYD_AREA_030,2025-04-24,Street Lighting,8,1480,15851,Good,1,24,28.42,Low,synthetic_demo
+XGB_0509,HYD_AREA_098,2025-02-03,Street Lighting,96,8493,14436,Fair,3,26,80.09,High,synthetic_demo
+XGB_0510,HYD_AREA_085,2025-01-10,Street Lighting,61,2544,26904,Fair,15,21,65.77,Medium,synthetic_demo
+XGB_0511,HYD_AREA_046,2025-03-10,Street Lighting,23,1770,12584,Poor,12,9,55.65,Medium,synthetic_demo
+XGB_0512,HYD_AREA_035,2025-09-03,Street Lighting,99,3759,22899,Fair,1,14,52.79,Medium,synthetic_demo
+XGB_0513,HYD_AREA_014,2025-01-09,Street Lighting,106,6337,18715,Good,8,4,52.84,Medium,synthetic_demo
+XGB_0514,HYD_AREA_033,2025-09-05,Street Lighting,60,3561,8004,Fair,8,17,63.28,Medium,synthetic_demo
+XGB_0515,HYD_AREA_087,2025-08-03,Street Lighting,22,1797,11247,Fair,2,10,30.53,Low,synthetic_demo
+XGB_0516,HYD_AREA_070,2025-01-14,Street Lighting,78,3059,11552,Poor,7,16,74.25,High,synthetic_demo
+XGB_0517,HYD_AREA_002,2025-04-19,Street Lighting,44,2913,6987,Good,10,28,69.41,Medium,synthetic_demo
+XGB_0518,HYD_AREA_096,2025-03-15,Street Lighting,35,3413,3413,Fair,14,16,79.17,High,synthetic_demo
+XGB_0519,HYD_AREA_097,2025-03-29,Street Lighting,113,7244,17597,Fair,14,5,80.85,High,synthetic_demo
+XGB_0520,HYD_AREA_098,2025-02-10,Street Lighting,4,1171,20361,Good,14,22,41.11,Medium,synthetic_demo
+XGB_0521,HYD_AREA_048,2025-10-25,Street Lighting,103,8659,20319,Fair,7,28,84.02,High,synthetic_demo
+XGB_0522,HYD_AREA_082,2025-08-29,Street Lighting,62,3518,13838,Good,8,24,57.56,Medium,synthetic_demo
+XGB_0523,HYD_AREA_055,2025-09-19,Street Lighting,65,3041,16557,Good,6,19,48.27,Medium,synthetic_demo
+XGB_0524,HYD_AREA_006,2025-05-27,Street Lighting,103,4280,4280,Poor,5,4,89.57,High,synthetic_demo
+XGB_0525,HYD_AREA_036,2025-03-07,Street Lighting,82,7178,17038,Poor,6,25,81.58,High,synthetic_demo
+XGB_0526,HYD_AREA_056,2025-05-01,Other,119,5788,27288,Fair,1,30,74.58,High,synthetic_demo
+XGB_0527,HYD_AREA_045,2025-02-07,Other,72,2694,2694,Good,0,2,48.91,Medium,synthetic_demo
+XGB_0528,HYD_AREA_088,2025-10-27,Other,41,3673,6587,Fair,12,29,72.78,High,synthetic_demo
+XGB_0529,HYD_AREA_082,2025-03-14,Other,77,2114,17879,Poor,10,24,74.41,High,synthetic_demo
+XGB_0530,HYD_AREA_091,2025-01-03,Other,3,498,3346,Poor,7,11,44.18,Medium,synthetic_demo
+XGB_0531,HYD_AREA_074,2025-10-25,Other,12,1613,23162,Fair,7,10,27.07,Low,synthetic_demo
+XGB_0532,HYD_AREA_044,2025-06-07,Other,54,3905,16340,Fair,6,21,50.91,Medium,synthetic_demo
+XGB_0533,HYD_AREA_043,2025-11-26,Other,21,2287,27499,Fair,5,22,37.43,Low,synthetic_demo
+XGB_0534,HYD_AREA_057,2025-03-18,Other,84,6726,17550,Poor,10,24,87.1,High,synthetic_demo
+XGB_0535,HYD_AREA_096,2025-05-05,Other,64,2788,26039,Poor,3,22,62.13,Medium,synthetic_demo
+XGB_0536,HYD_AREA_040,2025-08-24,Other,103,6530,13946,Good,9,19,74.88,High,synthetic_demo
+XGB_0537,HYD_AREA_003,2025-08-08,Other,90,7849,18096,Poor,7,9,79.84,High,synthetic_demo
+XGB_0538,HYD_AREA_071,2025-08-11,Other,119,5913,5913,Poor,14,28,100.0,High,synthetic_demo
+XGB_0539,HYD_AREA_008,2025-10-19,Other,98,6789,17442,Poor,13,4,79.66,High,synthetic_demo
+XGB_0540,HYD_AREA_051,2025-06-26,Other,52,2628,29762,Poor,2,30,61.39,Medium,synthetic_demo
+XGB_0541,HYD_AREA_098,2025-09-18,Other,4,619,2953,Poor,4,24,55.59,Medium,synthetic_demo
+XGB_0542,HYD_AREA_060,2025-11-20,Other,19,1219,24833,Fair,14,17,44.75,Medium,synthetic_demo
+XGB_0543,HYD_AREA_014,2025-06-17,Other,79,5100,11575,Poor,2,4,54.65,Medium,synthetic_demo
+XGB_0544,HYD_AREA_087,2025-10-19,Other,67,3435,20286,Fair,8,2,41.71,Medium,synthetic_demo
+XGB_0545,HYD_AREA_054,2025-11-21,Other,62,4405,27961,Poor,9,16,64.99,Medium,synthetic_demo
+XGB_0546,HYD_AREA_019,2025-11-02,Other,117,10362,10566,Fair,13,17,100.0,High,synthetic_demo
+XGB_0547,HYD_AREA_018,2025-02-21,Other,120,5719,23454,Fair,4,10,64.24,Medium,synthetic_demo
+XGB_0548,HYD_AREA_083,2025-10-17,Other,31,2547,14111,Poor,1,19,48.96,Medium,synthetic_demo
+XGB_0549,HYD_AREA_059,2025-05-22,Other,48,4806,22368,Fair,1,15,41.74,Medium,synthetic_demo
+XGB_0550,HYD_AREA_030,2025-01-17,Other,97,4882,14750,Good,12,8,64.52,Medium,synthetic_demo
+XGB_0551,HYD_AREA_057,2025-01-02,Other,90,9126,26410,Fair,10,9,65.59,Medium,synthetic_demo
+XGB_0552,HYD_AREA_051,2025-03-31,Other,27,3216,29636,Good,0,8,15.45,Low,synthetic_demo
+XGB_0553,HYD_AREA_026,2025-07-29,Other,43,2716,8709,Fair,0,27,56.68,Medium,synthetic_demo
+XGB_0554,HYD_AREA_070,2025-08-15,Other,44,2433,14624,Poor,5,16,55.11,Medium,synthetic_demo
+XGB_0555,HYD_AREA_073,2025-11-30,Other,18,2128,14900,Fair,12,27,57.94,Medium,synthetic_demo
+XGB_0556,HYD_AREA_065,2025-06-01,Other,23,1500,6435,Fair,15,24,60.4,Medium,synthetic_demo
+XGB_0557,HYD_AREA_031,2025-09-18,Other,69,3593,4199,Poor,8,17,88.16,High,synthetic_demo
+XGB_0558,HYD_AREA_004,2025-05-08,Other,98,4099,5627,Poor,0,9,74.98,High,synthetic_demo
+XGB_0559,HYD_AREA_028,2025-10-06,Other,52,3242,9294,Good,14,10,56.18,Medium,synthetic_demo
+XGB_0560,HYD_AREA_032,2025-01-21,Other,10,1249,26496,Poor,6,17,39.52,Low,synthetic_demo
+XGB_0561,HYD_AREA_092,2025-05-02,Other,58,5098,27480,Good,4,13,44.97,Medium,synthetic_demo
+XGB_0562,HYD_AREA_013,2025-04-19,Other,46,3888,29166,Fair,5,23,48.88,Medium,synthetic_demo
+XGB_0563,HYD_AREA_093,2025-01-23,Other,95,5395,24244,Fair,4,9,53.95,Medium,synthetic_demo
+XGB_0564,HYD_AREA_074,2025-02-04,Other,21,1878,2537,Good,7,23,64.54,Medium,synthetic_demo
+XGB_0565,HYD_AREA_038,2025-10-15,Other,73,4389,28688,Good,3,19,49.83,Medium,synthetic_demo
+XGB_0566,HYD_AREA_055,2025-01-10,Other,91,5256,9037,Good,4,15,55.97,Medium,synthetic_demo
+XGB_0567,HYD_AREA_043,2025-10-25,Other,119,4165,18287,Good,10,10,64.14,Medium,synthetic_demo
+XGB_0568,HYD_AREA_044,2025-10-03,Other,89,7813,26751,Poor,12,18,81.1,High,synthetic_demo
+XGB_0569,HYD_AREA_090,2025-07-26,Other,46,4461,25390,Poor,9,15,61.37,Medium,synthetic_demo
+XGB_0570,HYD_AREA_052,2025-12-18,Other,103,6408,21099,Poor,13,26,91.28,High,synthetic_demo
+XGB_0571,HYD_AREA_057,2025-11-26,Other,13,1934,22015,Poor,7,18,53.74,Medium,synthetic_demo
+XGB_0572,HYD_AREA_017,2025-06-11,Other,117,5488,22572,Poor,11,24,95.81,High,synthetic_demo
+XGB_0573,HYD_AREA_047,2025-11-11,Other,4,1100,7696,Good,1,22,25.42,Low,synthetic_demo
+XGB_0574,HYD_AREA_088,2025-06-14,Other,38,2340,23484,Fair,1,23,42.46,Medium,synthetic_demo
+XGB_0575,HYD_AREA_064,2025-02-25,Other,45,2293,15277,Fair,0,28,50.2,Medium,synthetic_demo
+XGB_0576,HYD_AREA_099,2025-10-16,Other,40,1560,15610,Good,3,13,30.04,Low,synthetic_demo
+XGB_0577,HYD_AREA_023,2025-08-30,Other,27,2528,11767,Poor,5,29,64.01,Medium,synthetic_demo
+XGB_0578,HYD_AREA_082,2025-10-04,Other,96,6201,15401,Good,11,25,69.54,Medium,synthetic_demo
+XGB_0579,HYD_AREA_067,2025-03-13,Other,59,4836,4836,Good,5,16,64.13,Medium,synthetic_demo
+XGB_0580,HYD_AREA_097,2025-04-29,Other,16,1411,17012,Good,11,21,39.47,Low,synthetic_demo
+XGB_0581,HYD_AREA_083,2025-01-06,Other,13,1481,6721,Fair,7,24,50.26,Medium,synthetic_demo
+XGB_0582,HYD_AREA_028,2025-01-08,Other,2,154,6114,Good,4,9,16.48,Low,synthetic_demo
+XGB_0583,HYD_AREA_046,2025-11-17,Other,95,9227,20818,Poor,14,18,92.59,High,synthetic_demo
+XGB_0584,HYD_AREA_057,2025-04-13,Other,8,751,8592,Fair,6,3,26.77,Low,synthetic_demo
+XGB_0585,HYD_AREA_081,2025-05-15,Other,76,6008,25626,Fair,8,1,53.95,Medium,synthetic_demo
+XGB_0586,HYD_AREA_055,2025-06-23,Other,33,2385,10367,Fair,14,19,68.34,Medium,synthetic_demo
+XGB_0587,HYD_AREA_079,2025-10-05,Other,68,3551,13878,Fair,11,21,67.07,Medium,synthetic_demo
+XGB_0588,HYD_AREA_080,2025-08-10,Other,34,3337,14502,Poor,10,3,51.39,Medium,synthetic_demo
+XGB_0589,HYD_AREA_038,2025-12-09,Other,77,3904,22639,Fair,8,13,58.24,Medium,synthetic_demo
+XGB_0590,HYD_AREA_037,2025-06-09,Other,47,3424,25770,Poor,3,5,46.6,Medium,synthetic_demo
+XGB_0591,HYD_AREA_044,2025-07-22,Other,2,523,4739,Poor,0,11,28.86,Low,synthetic_demo
+XGB_0592,HYD_AREA_033,2025-05-16,Other,68,3090,10146,Fair,9,5,50.94,Medium,synthetic_demo
+XGB_0593,HYD_AREA_017,2025-02-22,Other,99,5566,5566,Fair,3,1,77.06,High,synthetic_demo
+XGB_0594,HYD_AREA_002,2025-06-19,Other,51,4359,24942,Poor,14,27,79.21,High,synthetic_demo
+XGB_0595,HYD_AREA_058,2025-06-26,Other,11,1840,29640,Fair,8,5,26.9,Low,synthetic_demo
+XGB_0596,HYD_AREA_052,2025-05-27,Other,63,6602,22084,Fair,9,2,49.51,Medium,synthetic_demo
+XGB_0597,HYD_AREA_055,2025-02-05,Other,52,4392,7788,Poor,3,16,70.92,High,synthetic_demo
+XGB_0598,HYD_AREA_082,2025-06-23,Other,106,7401,15120,Fair,13,1,76.06,High,synthetic_demo
+XGB_0599,HYD_AREA_029,2025-10-10,Other,67,3501,13125,Fair,14,17,69.66,Medium,synthetic_demo
+XGB_0600,HYD_AREA_044,2025-03-17,Other,27,2488,15955,Poor,5,2,44.13,Medium,synthetic_demo

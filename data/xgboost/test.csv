@@ -1,0 +1,91 @@
+problem_category,complaint_count,affected_population,population,infrastructure_condition,historical_incidents,problem_duration_days,severity_score
+Water Supply,103,7893,25699,Poor,12,23,96.86
+Street Lighting,39,3594,18990,Poor,8,17,64.69
+Healthcare,7,719,16319,Fair,0,5,25.9
+Other,10,1249,26496,Poor,6,17,39.52
+Water Supply,14,1432,6722,Fair,3,7,27.53
+Waste Management,85,6000,6000,Good,6,15,78.17
+Healthcare,47,2794,27045,Fair,11,9,54.49
+Water Supply,83,6926,23692,Fair,6,11,64.58
+Other,76,6008,25626,Fair,8,1,53.95
+Street Lighting,29,1889,14582,Good,8,5,29.05
+Healthcare,58,4188,19405,Good,10,23,55.83
+Water Supply,111,8067,29951,Fair,2,10,62.48
+Healthcare,2,1051,14150,Poor,15,8,51.98
+Drainage,56,2333,13724,Good,5,21,49.46
+Drainage,115,5296,29329,Good,7,20,68.65
+Roads,45,4478,7430,Good,4,10,50.21
+Waste Management,93,4986,24774,Poor,2,12,68.31
+Water Supply,63,5498,13857,Poor,11,29,87.76
+Waste Management,90,5729,20325,Fair,3,26,69.93
+Drainage,42,1846,16037,Fair,15,7,61.39
+Roads,103,5083,29799,Fair,0,28,70.43
+Water Supply,30,1560,22299,Poor,2,3,36.98
+Water Supply,52,4347,16382,Poor,6,11,60.05
+Other,63,6602,22084,Fair,9,2,49.51
+Healthcare,51,2843,15930,Poor,5,10,53.5
+Other,77,2114,17879,Poor,10,24,74.41
+Water Supply,64,4258,19715,Poor,8,27,81.94
+Drainage,45,2430,19043,Fair,4,23,49.63
+Roads,89,3475,4820,Poor,1,3,71.37
+Education,36,3266,16092,Poor,14,28,79.31
+Education,38,1633,27044,Fair,12,30,61.08
+Healthcare,40,1763,29616,Fair,6,15,49.09
+Roads,15,1750,11921,Poor,14,14,65.3
+Other,4,1100,7696,Good,1,22,25.42
+Other,46,3888,29166,Fair,5,23,48.88
+Education,80,4617,15247,Fair,11,30,81.11
+Water Supply,105,3529,9462,Poor,0,10,73.06
+Roads,31,2654,24063,Good,3,29,42.36
+Other,47,3424,25770,Poor,3,5,46.6
+Drainage,106,7539,21772,Poor,7,26,91.8
+Water Supply,68,2612,7208,Poor,10,24,85.37
+Roads,32,3846,12950,Good,3,3,27.93
+Drainage,37,2159,7876,Good,6,7,37.13
+Water Supply,83,4309,28006,Fair,9,1,55.04
+Drainage,65,6624,8123,Good,15,7,78.01
+Drainage,79,6868,11797,Good,2,2,47.3
+Waste Management,98,5497,5497,Good,13,11,88.43
+Education,66,3640,11152,Good,8,13,54.9
+Healthcare,89,5874,25975,Fair,4,24,74.31
+Education,43,3920,3920,Fair,13,10,78.1
+Waste Management,33,2203,28916,Fair,8,6,39.18
+Roads,66,3356,18223,Fair,8,16,58.17
+Other,91,5256,9037,Good,4,15,55.97
+Street Lighting,17,2368,7672,Good,10,9,35.39
+Street Lighting,116,7581,13232,Good,0,10,59.71
+Roads,29,3080,9889,Good,13,27,60.16
+Healthcare,63,3769,24130,Poor,9,19,69.77
+Other,67,3501,13125,Fair,14,17,69.66
+Education,80,2637,2637,Fair,15,8,85.98
+Roads,16,669,15540,Fair,1,10,24.63
+Waste Management,89,7458,7778,Fair,14,28,100.0
+Education,60,3071,29641,Poor,8,1,52.27
+Street Lighting,16,1797,29598,Good,4,6,18.54
+Healthcare,30,2112,19038,Poor,8,19,58.54
+Water Supply,84,7658,27360,Good,0,7,48.03
+Healthcare,13,1698,12436,Good,0,28,30.77
+Other,103,6530,13946,Good,9,19,74.88
+Water Supply,90,2779,4329,Poor,13,13,98.74
+Other,119,5913,5913,Poor,14,28,100.0
+Education,82,2743,25035,Poor,12,29,89.7
+Water Supply,34,2630,2630,Good,14,24,80.64
+Roads,11,1068,17723,Good,5,14,29.66
+Water Supply,46,3188,11796,Good,2,10,30.98
+Other,40,1560,15610,Good,3,13,30.04
+Drainage,119,5105,21727,Fair,10,28,90.77
+Water Supply,57,2249,16940,Poor,14,30,83.63
+Drainage,17,1014,19515,Fair,14,7,45.15
+Other,68,3551,13878,Fair,11,21,67.07
+Waste Management,117,7578,15379,Good,6,7,59.57
+Roads,72,7338,8982,Good,1,22,68.77
+Healthcare,12,1985,25541,Good,11,2,26.82
+Drainage,19,1812,14437,Poor,6,20,54.36
+Water Supply,113,3485,3485,Good,0,8,70.15
+Water Supply,78,6129,17544,Poor,5,11,67.69
+Healthcare,12,1822,9592,Good,7,3,23.0
+Other,48,4806,22368,Fair,1,15,41.74
+Roads,30,2936,10234,Poor,5,4,47.71
+Street Lighting,103,4280,4280,Poor,5,4,89.57
+Other,69,3593,4199,Poor,8,17,88.16
+Healthcare,69,5209,19058,Poor,1,8,58.1

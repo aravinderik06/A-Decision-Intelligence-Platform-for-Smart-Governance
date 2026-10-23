@@ -1,0 +1,11 @@
+{
+    "model": "XGBoost",
+    "target": "severity_score",
+    "validation_mae": 4.169148579067654,
+    "validation_rmse": 5.042341734599792,
+    "validation_r2": 0.928008663872651,
+    "test_mae": 3.866996621873644,
+    "test_rmse": 4.9049062813885955,
+    "test_r2": 0.9429634373788656,
+    "data_status": "synthetic_demo"
+}

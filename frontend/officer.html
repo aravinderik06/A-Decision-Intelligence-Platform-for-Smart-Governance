@@ -1,0 +1,115 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Officer Dashboard | Smart Governance</title>
+    <link rel="stylesheet" href="/frontend/officer.css">
+</head>
+<body>
+    <header class="topbar">
+        <div>
+            <h1>Smart Governance</h1>
+            <p>Officer Decision Dashboard</p>
+        </div>
+        <button id="logout-button" class="button button-outline">
+            Log out
+        </button>
+    </header>
+
+    <main class="page">
+        <section class="welcome">
+            <div>
+                <p class="eyebrow">DEPARTMENT WORKSPACE</p>
+                <h2 id="officer-name">Loading officer...</h2>
+                <p id="officer-department">Loading department...</p>
+            </div>
+            <button id="refresh-button" class="button button-primary">
+                Refresh complaints
+            </button>
+        </section>
+
+        <section class="summary-grid" aria-label="Complaint summary">
+            <article class="summary-card">
+                <p>Total assigned</p>
+                <h3 id="total-count">0</h3>
+            </article>
+            <article class="summary-card">
+                <p>Critical priority</p>
+                <h3 id="critical-count">0</h3>
+            </article>
+            <article class="summary-card">
+                <p>High priority</p>
+                <h3 id="high-count">0</h3>
+            </article>
+            <article class="summary-card">
+                <p>Awaiting decision</p>
+                <h3 id="pending-count">0</h3>
+            </article>
+        </section>
+
+        <section class="panel">
+            <div class="section-heading">
+                <div>
+                    <h2>Department Complaints</h2>
+                    <p>Review AI analysis and take an official decision.</p>
+                </div>
+                <select id="priority-filter" aria-label="Filter by priority">
+                    <option value="All">All priorities</option>
+                    <option value="Critical">Critical</option>
+                    <option value="High">High</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Low">Low</option>
+                </select>
+            </div>
+
+            <div id="page-message" class="message" role="status"
+                 aria-live="polite">
+                Loading complaints...
+            </div>
+
+            <div id="complaint-list" class="complaint-list"></div>
+        </section>
+    </main>
+
+    <dialog id="complaint-dialog" class="detail-dialog">
+        <div class="dialog-header">
+            <div>
+                <p class="eyebrow">COMPLAINT REVIEW</p>
+                <h2 id="detail-title">Complaint details</h2>
+            </div>
+            <button id="close-dialog" class="close-button"
+                    aria-label="Close details">✕</button>
+        </div>
+
+        <div id="detail-content"></div>
+
+        <form id="decision-form">
+            <input type="hidden" id="decision-complaint-id">
+
+            <label for="officer-reason">Officer remarks</label>
+            <textarea id="officer-reason" rows="3"
+                placeholder="Enter the reason for your decision..."></textarea>
+
+            <p class="help-text">
+                Your decision is recorded separately from the AI recommendation.
+            </p>
+
+            <div class="decision-actions">
+                <button type="button" class="button approve-button"
+                        data-decision="Approve">Approve</button>
+                <button type="button" class="button modify-button"
+                        data-decision="Modify">Modify</button>
+                <button type="button" class="button reject-button"
+                        data-decision="Reject">Reject</button>
+            </div>
+
+            <p id="decision-message" class="message" role="status"
+               aria-live="polite"></p>
+        </form>
+    </dialog>
+
+    <script src="/frontend/officer.js"></script>
+</body>
+</html>

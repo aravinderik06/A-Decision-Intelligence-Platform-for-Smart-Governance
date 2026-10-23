@@ -1,0 +1,100 @@
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Officer Login | Smart Governance</title>
+    <link rel="stylesheet" href="/frontend/style.css">
+    <style>
+        .login-container {
+            max-width: 430px;
+            margin: 70px auto;
+            padding: 32px;
+            background: white;
+            border-radius: 14px;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.09);
+        }
+        .login-container h1 {
+            margin-bottom: 8px;
+            color: #173b63;
+        }
+        .login-container p {
+            color: #64748b;
+            margin-bottom: 24px;
+        }
+        .login-container label {
+            display: block;
+            margin: 16px 0 7px;
+            font-weight: 600;
+        }
+        .login-container input {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 12px;
+            border: 1px solid #cbd5e1;
+            border-radius: 7px;
+            font-size: 15px;
+        }
+        .login-container button {
+            width: 100%;
+            margin-top: 22px;
+            padding: 13px;
+            border: none;
+            border-radius: 7px;
+            background: #173b63;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .login-container button:disabled {
+            opacity: 0.65;
+            cursor: wait;
+        }
+        #login-message {
+            margin-top: 15px;
+            font-size: 14px;
+            overflow-wrap: anywhere;
+        }
+        .back-link {
+            display: block;
+            margin-top: 18px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <h1>Officer Login</h1>
+        <p>Smart Governance — Hyderabad Pilot</p>
+
+        <form id="login-form">
+            <label for="username">Username</label>
+            <input
+                id="username"
+                name="username"
+                type="text"
+                autocomplete="username"
+                required
+            >
+
+            <label for="password">Password</label>
+            <input
+                id="password"
+                name="password"
+                type="password"
+                autocomplete="current-password"
+                required
+            >
+
+            <button id="login-button" type="submit">Sign In</button>
+        </form>
+
+        <div id="login-message" role="status" aria-live="polite"></div>
+
+        <a class="back-link" href="/citizen">Return to Citizen Portal</a>
+    </div>
+
+    <script src="/frontend/officer-login.js"></script>
+</body>
+</html>

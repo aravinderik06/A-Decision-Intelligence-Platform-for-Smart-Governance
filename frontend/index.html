@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Smart Governance</title>
+
+    <link rel="stylesheet" href="/frontend/style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Smart Governance</h1>
+        <p>Citizen Complaint Portal</p>
+    </header>
+
+    <main>
+
+        <section class="card">
+
+            <h2>Submit a Complaint</h2>
+
+            <label for="area">Area</label>
+
+            <select id="area">
+                <option value="HYD_AREA_001">Area 001</option>
+                <option value="HYD_AREA_002">Area 002</option>
+                <option value="HYD_AREA_003">Area 003</option>
+            </select>
+
+
+            <label for="complaint">
+                Describe your problem
+            </label>
+
+            <textarea
+                id="complaint"
+                placeholder="Example: Sewage water has been overflowing onto the road near the government school..."
+            ></textarea>
+
+
+            <button id="submitButton">
+                Submit Complaint
+            </button>
+
+            <p id="status"></p>
+
+        </section>
+
+
+        <section
+            id="resultCard"
+            class="card result-card"
+            style="display: none;"
+        >
+
+            <h2>Complaint Analysis</h2>
+
+            <div class="result-item">
+                <span>Complaint ID</span>
+                <strong id="complaintId"></strong>
+            </div>
+
+            <div class="result-item">
+                <span>Problem Category</span>
+                <strong id="problemCategory"></strong>
+            </div>
+
+            <div class="result-item">
+                <span>Severity Score</span>
+                <strong id="severityScore"></strong>
+            </div>
+
+            <div class="result-item">
+                <span>Priority</span>
+                <strong id="priority"></strong>
+            </div>
+
+            <div class="result-item">
+                <span>Recommendation</span>
+                <strong id="recommendation"></strong>
+            </div>
+
+            <div class="result-item">
+                <span>Suggested Action</span>
+                <strong id="suggestedAction"></strong>
+            </div>
+
+            <div class="result-item">
+                <span>Reason</span>
+                <strong id="reason"></strong>
+            </div>
+
+        </section>
+
+    </main>
+
+    <script src="/frontend/app.js"></script>
+
+</body>
+
+</html>
